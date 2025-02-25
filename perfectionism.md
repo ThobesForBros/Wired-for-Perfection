@@ -55,19 +55,6 @@ MC (weakly)
 BEST FRIEND (HADIDAH) wth Scooter
   I can make you perfect.
 *MC’s eyes widen in horror as the blue light pulses, illuminating the metallic glint in his friend’s eyes.*
-
----
-**Scene 3**
-*A VOICE—soft, familiar, yet... wrong.*
-VOICE (O.S.)
-  I can fix you.
-*A FAINT BLUE LIGHT glows in the darkness. MC’s breathing is ragged. He blinks, trying to focus. The silhouette of his BEST FRIEND emerges, eerily still, bathed in cold, unnatural light.*
-MC (weakly)
-  You... What are you saying?
-*His best friend’s head tilts—too smooth, too mechanical. His lips move, but the voice that emerges is layered and distorted.*
-BEST FRIEND (HADIDAH) wth Scooter
-  I can make you perfect.
-*MC’s eyes widen in horror as the blue light pulses, illuminating the metallic glint in his friend’s eyes.*
-
 **SMASH CUT TO BLACK**
+---
 
