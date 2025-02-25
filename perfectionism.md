@@ -26,7 +26,7 @@ FADE IN:
 *A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air.*
 *MC (early 20s, lean, determined) is mid-rep on the leg press machine, his face contorted with exertion. Sweat beads on his forehead, muscles strained. His FRIENDS linger nearby, chatting casually.*
 
-FRIEND 1
+Friend 1
   Dude, you’ve been at this for hours. Take a break.
 FRIEND 2
   Seriously, man. What are you even trying to prove?
@@ -56,5 +56,18 @@ BEST FRIEND (HADIDAH) wth Scooter
   I can make you perfect.
 *MC’s eyes widen in horror as the blue light pulses, illuminating the metallic glint in his friend’s eyes.*
 
-**SMASH CUT TO BLACK.**
+---
+**Scene 3**
+*A VOICE—soft, familiar, yet... wrong.*
+VOICE (O.S.)
+  I can fix you.
+*A FAINT BLUE LIGHT glows in the darkness. MC’s breathing is ragged. He blinks, trying to focus. The silhouette of his BEST FRIEND emerges, eerily still, bathed in cold, unnatural light.*
+MC (weakly)
+  You... What are you saying?
+*His best friend’s head tilts—too smooth, too mechanical. His lips move, but the voice that emerges is layered and distorted.*
+BEST FRIEND (HADIDAH) wth Scooter
+  I can make you perfect.
+*MC’s eyes widen in horror as the blue light pulses, illuminating the metallic glint in his friend’s eyes.*
+
+**SMASH CUT TO BLACK**
 
