@@ -28,13 +28,13 @@ FADE IN:
 
 Friend 1
   Dude, you’ve been at this for hours. Take a break.
-FRIEND 2
+Friend 2
   Seriously, man. What are you even trying to prove?
 *MC exhales sharply, pushing out another rep. His eyes are locked forward—determined, distant.*
 MC
   Just one more set.
 *He racks the weights, panting. His legs shake as he stands. A moment of dizziness—*
-FRIEND 1
+Friend 1
   C’mon, you’re killing yourself over this.
 MC
   I’m fine.
@@ -52,7 +52,7 @@ VOICE (O.S.)
 MC (weakly)
   You... What are you saying?
 *His best friend’s head tilts—too smooth, too mechanical. His lips move, but the voice that emerges is layered and distorted.*
-BEST FRIEND (HADIDAH) wth Scooter
+BEST Friend (HADIDAH) wth Scooter
   I can make you perfect.
 *MC’s eyes widen in horror as the blue light pulses, illuminating the metallic glint in his friend’s eyes.*
 **SMASH CUT TO BLACK**
