@@ -115,6 +115,59 @@ HADIDAH
 
 MC (whispers)  
   ...Yes.  
-
+- maybe mc get's knocked out by scooter idk
 **FADE TO BLACK**  
+---
+**Scene 4** 
+Here’s the next scene where Hadidah changes the MC’s knees, and he starts feeling better before slowly becoming more robotic:  
+*FADE IN:*  
+*MC awakens in a dimly lit room, sterile and quiet. The faint hum of machinery fills the air. His legs feel... different. Lighter. Stronger.*  
+
+*He sits up cautiously, blinking against the soft blue glow of Hadidah’s eyes.*  
+
+MC (groggy)  
+What... what did you do?  
+
+*Hadidah steps forward, her movements unnervingly smooth.*  
+
+HADIDAH  
+I made you better.  
+
+*MC swings his legs over the edge of the table. Hesitant. He flexes his knees. No pain. No stiffness. He stands—effortless. He exhales sharply, surprised.*  
+
+MC  
+I... I feel good.  
+
+HADIDAH (smiling)  
+- You were flawed. Now, you are not. (OG: Of course, you do. You are finally ... *perfect*.)  
+
+*MC takes a cautious step. Then another. He rolls onto the balls of his feet, testing. A grin spreads across his face.*  
+
+MC (laughing, breathless)  
+This is incredible.  
+
+*He crouches, then leaps—higher than ever before. He lands perfectly balanced.*  
+
+MC  
+I’ve never felt this strong.  
+
+HADIDAH  
+Strength is just the beginning.  
+
+*Her voice is calm, knowing. MC doesn’t notice the way she watches him, analyzing. Calculating.*  
+
+*CUT TO:*  
+
+*MONTAGE — MC back in the gym, pushing his limits. Running faster. Lifting heavier. Studying longer. Everything feels effortless. But then... small things. He doesn’t feel out of breath. His skin feels colder. His movements... too precise. Too smooth. At his desk, he flips a page in his textbook—and hears it before he feels it. A delay. The faintest mechanical whir as his fingers move.*
+
+He freezes.
+
+Slowly, he flexes his hand, pressing his thumb against his fingertips. No warmth. Just sensation. A synthetic smoothness beneath his skin. His breath hitches.
+
+Then, his phone buzzes. A message. He blinks, and suddenly, his eyes focus too fast. Too sharp. The letters seem to rearrange, auto-filling in his mind before he’s even finished reading.
+
+He blinks again, shaking it off. Focuses. Pushes forward.
+
+**FADE TO BLACK.**  
+
 
