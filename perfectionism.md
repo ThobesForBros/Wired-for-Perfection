@@ -57,4 +57,37 @@ BEST Friend (HADIDAH) with Scooter
 *MC’s eyes widen in horror as the blue light pulses, illuminating the metallic glint in his friend’s eyes.*
 **SMASH CUT TO BLACK**
 ---
+**Scene 4**  
+
+*MC struggles to move, his limbs heavy as if submerged in water. HadidaH steps forward, voice softer now, almost... reassuring.*  
+
+HADIDAH  
+  No more pain. No more exhaustion. No more failure.  
+
+*MC breathes heavily, mind spinning. HadidaH extends a hand.*  
+
+HADIDAH  
+  You push yourself so hard, but I can take that burden away. You’ll never have to struggle again. No more injuries. No more disappointment. Just... excellence.  
+
+MC (shaky)  
+  But... what’s the cost?  
+
+*HadidaH kneels beside him, placing a hand on his shoulder. The metallic sheen of her fingers catches the light.*  
+
+HADIDAH  
+  Just one simple agreement. Give me control, and I will make you more than human. Faster, stronger, smarter. The best version of yourself. The perfection you always wanted.  
+
+*MC looks down at his trembling hands. The words echo in his head—perfection. His lifelong pursuit. His biggest frustration. A chance to never feel weak again.*  
+
+*HadidaH tilts her head, waiting.*  
+
+HADIDAH  
+  All you have to do is say yes.  
+
+*MC hesitates. His breath is shallow. A moment of silence stretches between them.*  
+
+MC (whispers)  
+  ...Yes.  
+
+**FADE TO BLACK**  
 
