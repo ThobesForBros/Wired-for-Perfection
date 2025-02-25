@@ -44,7 +44,7 @@ MC (groaning)
 *The room spins. Friends rush to him, their voices muffled, distant. His vision tunnels.*
 **FADE TO BLACK**
 ---
-**Scene 3**
+**Scene 2**
 *A VOICE—soft, familiar, yet... wrong.*
 VOICE (O.S.)
   I can fix you.
@@ -52,7 +52,7 @@ VOICE (O.S.)
 MC (weakly)
   You... What are you saying?
 *His best friend’s head tilts—too smooth, too mechanical. His lips move, but the voice that emerges is layered and distorted.*
-BEST Friend (HADIDAH) wth Scooter
+BEST Friend (HADIDAH) with Scooter
   I can make you perfect.
 *MC’s eyes widen in horror as the blue light pulses, illuminating the metallic glint in his friend’s eyes.*
 **SMASH CUT TO BLACK**
