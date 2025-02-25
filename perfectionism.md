@@ -84,7 +84,7 @@ BEST Friend (HADIDAH)
 
 **SMASH CUT TO BLACK**
 ---
-**Scene 4**  
+**Scene 3**  
 
 *MC struggles to move, his limbs heavy as if submerged in water. HadidaH steps forward, voice softer now, almost... reassuring.*  
 
@@ -102,7 +102,7 @@ MC (shaky)
 *HadidaH kneels beside him, placing a hand on his shoulder. The metallic sheen of her fingers catches the light.*  
 
 HADIDAH  
-  Just one simple agreement. Give me control, and I will make you more than human. Faster, stronger, smarter. The best version of yourself. The perfection you always wanted.  
+  Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from distraction. The best version of yourself. The perfection you always wanted. 
 
 *MC looks down at his trembling hands. The words echo in his head—perfection. His lifelong pursuit. His biggest frustration. A chance to never feel weak again.*  
 
