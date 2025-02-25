@@ -115,7 +115,8 @@ HADIDAH
 
 MC (whispers)  
   ...Yes.  
-- maybe mc get's knocked out by scooter idk
+- maybe mc gets knocked out by scooter idk
+
 **FADE TO BLACK**  
 ---
 **Scene 4** 
