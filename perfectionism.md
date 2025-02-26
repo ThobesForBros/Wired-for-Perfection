@@ -191,7 +191,9 @@ Yes!
 _He moves across the gym floor, walking with confidence. No hesitation. He jogs to the far side of the room, just to test it out, but it's too easy. His legs are perfect now. No sign of pain, no tightness. Just fluid motion. He laughs again, this time a little louder, filled with disbelief and excitement._  
 
 **MC (grinning, to himself)**  
-My workouts, they're **excellent**!  
+My workouts, they're **perfect**!  
+
+He takes a deep breath and walks toward the exit, his footsteps confident. As he exits, the world outside seems to blur and fade into the background, his mind only focused on one thing—perfection.
 
 **FADE TO BLACK**  
 
