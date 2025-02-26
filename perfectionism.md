@@ -532,7 +532,7 @@ Yes. I want it back.
 
 _With that, the room around them bursts into light, blinding and pure._
 
-# Scene 10 | Emergency Room
+# Scene 11 | Emergency Room
 
 FADE OUT:
 
@@ -575,7 +575,7 @@ Oh the path to excellence is never a perfect one. Now let's get this silly hat o
 
 _He gently removes the headgear, and MC stretches his head, feeling the weight lift. MC and BEST FRIEND, holding his scooter, walk out of the ER_
 
-# Scene 11: Credits with Background Montage
+# Scene 12: Credits with Background Montage
 
 **INT. UNIVERSITY LECTURE HALL**
 
@@ -617,7 +617,7 @@ _MC is reading through textbooks, but his focus is more scattered than before. H
 
 _MC walks across campus, his steps still quick but no longer filled with the usual precision. He bumps into a few people, apologizes, and smiles at them. A group of students waves at him from across the quad, and he waves back, a genuine smile on his face. He’s no longer isolated; instead, he’s part of the crowd, connected again. There’s no perfection in his stride, but that’s okay. He’s right where he needs to be._
 
-# Scene 12: Post-credits Scene
+# Scene 13: Post-credits Scene
 
 **EXT. STAIRS - DAY**
 
