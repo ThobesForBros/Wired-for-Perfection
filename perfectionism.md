@@ -369,5 +369,68 @@ _A flash of lightning briefly lights up the apartment room, exposing HADIDAH rig
 
 # Scene 8
 
+**INT. UNIVERSITY CAMPUS - DAY**
+
+_The day unfolds like any other: perfect. MC moves through the motions with precision. He answers questions in class flawlessly, nails every physical workout, and delivers impeccable performances in every social interaction—too perfect, almost robotic. But no matter how many times he reaches out to his friends, there's no change. They remain distant, silent, or completely absent. Each smile he gets in return seems more out of obligation than friendship. He continues with his perfect day, but there's a growing emptiness gnawing at him, a dissatisfaction that he's not sure how to place. The absence of connection weighs heavily on his heart, but he doesn’t understand why._
+
+**INT. MC’S APARTMENT - EVENING**
+
+_The sun begins to set as MC returns home. His posture is tense, his expression tight with frustration. He slams the door behind him, his thoughts clouded with confusion and anger._
+
+_He paces the room, muttering under his breath, trying to make sense of everything. His movements are jerky, like he's running on autopilot._
+
+_Finally, standing at his small table, he lets out a loud, frustrated shout._
+
+**MC (shouting)**
+I wish I wasn’t perfect anymore! I’d rather feel something, anything, than this hollow emptiness! I just wanted to connect again, but now... I’ve lost everything!
+
+_He pauses, his chest rising and falling with heavy breaths. The words echo in the quiet apartment. A brief silence settles._
+
+**MC (softly to himself)**
+Why does it feel so wrong?
+
+_He drops his hands onto the table in a moment of frustration, his head following soon after. There’s a sudden clank as his skull makes contact with the hard surface. His eyes snap open in confusion. He looks down at his hands, his fingers twitching nervously._
+
+_The sensation is odd. A chill runs down his spine. He looks back at the table, confused by the sound he just heard. Slowly, he raises his hand and places it back on the table._
+
+_Another clank._
+
+_He freezes, his pulse racing._
+
+**MC (whispering to himself, disoriented)**
+What... what happened to me?
+
+_He looks around the room, searching for some clue. With trembling hands, he smacks his arms together. The clank rings out again._
+
+_His confusion deepens, now tinged with panic. His breath quickens._
+
+**MC (frantic)**
+No, no, this can't be right!
+
+_He hurriedly pushes himself away from the table, stumbling backward. His eyes dart over to the sink, and without thinking, he rushes over. His shaking hands turn on the water, his breath shallow and rapid as he begins to wash his arms._
+
+_As the water runs over his skin, something strange happens. The water doesn't feel the same against his arms. He pulls his sleeves up, frantically scrubbing, but the metal underneath only becomes more apparent._
+
+_He stops suddenly, his heart pounding in his chest. His arm is... metal. Bare, cold, unforgiving metal._
+
+**MC (breathless, horrified)**
+No... no, this can't be happening!
+
+_He drops his arms to his sides, staring at the metallic limbs, completely stunned. His mind races, struggling to comprehend the unimaginable._
+
+_He stands frozen, his thoughts spiraling in terror._
+
+**MC (shaking, softly)**
+HadidaH... What did you do to me?
+
+_A wave of rage crashes over him as his hands ball into fists. The realization is too much. His body feels foreign—wrong. He has been transformed, turned into something inhuman, and the one person he trusted to help him fix everything was responsible for this._
+
+**MC (shouting, furious)**
+HadidaH!!
+
+_With a roar of anger and fear, he storms out of his apartment, rushing through the door and into the night. His steps are urgent, desperate. His heart pounds in his chest as he races to find HadidaH, to make her undo this—whatever it was she did to him._
+
+_The world outside is dark, the streets quiet, but within him, a storm of emotion brews, as he races toward the one thing that might give him answers._
+
 
 
