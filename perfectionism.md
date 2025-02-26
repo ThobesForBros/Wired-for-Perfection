@@ -631,10 +631,8 @@ So... what did you do, HadidaH?
 
 _HadidaH’s scooter wheels creak as she “sits up” almost as if waking from a sleep. She turns her head to face Best Friend, a playful smile in her voice._
 
-**HADIDAH (in her own voice, sinister, but cheery)**
+**HADIDAH (in her own voice, sinister, but cheery, waving the headgear from the hospital room)**
 I did exactly what you told me to do.
-
-_She waves around the headgear from the hospital room._
 
 **END**
 
