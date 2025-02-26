@@ -188,7 +188,7 @@ _He racks the weights and stands up, his heart racing—not from exertion, but f
 **MC (grinning, to himself)**  
 My workouts, they're **perfect**!  
 
-He takes a deep breath and walks toward the exit, his footsteps confident. As he exits, the world outside seems to blur and fade into the background, his mind only focused on one thing—perfection.
+_He takes a deep breath and walks toward the exit, his footsteps confident. As he exits, the world outside seems to blur and fade into the background, his mind only focused on one thing—perfection._
 
 **FADE TO BLACK**  
 
