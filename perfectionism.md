@@ -426,11 +426,114 @@ HadidaH... What did you do to me?
 _A wave of rage crashes over him as his hands ball into fists. The realization is too much. His body feels foreign—wrong. He has been transformed, turned into something inhuman, and the one person he trusted to help him fix everything was responsible for this._
 
 **MC (shouting, furious)**
-HadidaH!!
+HADIDAH!!
 
 _With a roar of anger and fear, he storms out of his apartment, rushing through the door and into the night. His steps are urgent, desperate. His heart pounds in his chest as he races to find HadidaH, to make her undo this—whatever it was she did to him._
 
-_The world outside is dark, the streets quiet, but within him, a storm of emotion brews, as he races toward the one thing that might give him answers._
+_The world outside is dark, the streets quiet, but within him, a storm of emotion brews, as he races toward the scooter that will give him answers._
 
+# Scene 9
 
+**EXT. UT DALLAS CAMPUS - NIGHT**
+
+_MC races down the campus pathways, his metal limbs clanking with each step. His breath is heavy, and his heart is pounding. The lights of the campus blur around him as he barrels forward, his eyes fixed on one target: HadidaH._
+
+_From a distance, he sees the familiar, sleek figure of the scooter, with Best Friend perched atop HadidaH steering it away from MC. They are moving fast._
+
+**MC (shouting)**
+HADIDAH!! COME BACK HERE!! I NEED ANSWERS!!
+
+_The chase begins. HadidaH moves fluidly, weaving through campus streets, the sound of her tires cutting through the air. MC’s legs pump harder, the urgency in his stride growing._
+
+**CUT TO:**
+
+**EXT. CAMPUS - NIGHT**
+
+_They speed through the empty roads of UT Dallas. HadidaH, gliding effortlessly with Best Friend on board, is always just a few steps ahead. MC pushes himself harder, his frustration building. The chase takes them through quiet walkways, past darkened dorms, and over dimly lit bridges, weaving between trees and across open fields._
+
+_The night air feels colder now, the tension in the pursuit growing palpable. With each turn HadidaH makes, MC’s frustration swells, his every step driven by anger, desperation, and confusion._
+
+**EXT. BUILDING ENTRANCE - NIGHT**
+
+_HadidaH speeds up toward the entrance of a tall building on campus, gliding to a stop near the doors._
+
+_MC’s chest heaves as he catches up, fury in his eyes. He reaches the doors just as they close behind her, but without hesitation, he barges through._
+
+_The doors swing open with a loud CLANK._
+
+**INT. BUILDING HALLWAY - NIGHT**
+
+_MC charges down the hallway. The sound of his footsteps echoes through the empty corridor, sharp and quick._
+
+_He’s closing in._
+
+_Finally, he reaches the door to a small, dark room at the end of the hallway. His fingers grip the handle, and with a burst of adrenaline, he flings it open._
+
+**INT. ROOM - NIGHT**
+
+_MC’s eyes lock onto HadidaH—there she is, standing perfectly still in the room, gazing at him through Best Friend. She’s silent, her presence almost otherworldly. The room is dim, but the soft hum of HadidaH’s mechanical parts fills the air. It feels almost like she’s been waiting for him. Like she’s always known he would come._
+
+_MC’s heart pounds in his chest._
+
+**MC (shouting, enraged)**
+Where’s my body?! What did you do with it?!!
+
+_For a moment, HadidaH doesn’t respond. She remains completely still. Suddenly, Best Friend, still under HadidaH's control, walks somewhere and and comes back with MC’s body—his real human body. He stares at it in disbelief._
+
+**MC (whispering, horrified)**
+That’s... that’s me...
+
+_HadidaH, speaking through Best Friend’s voice, finally breaks the silence. Her voice is calm, almost serene, but with an edge of sadness._
+
+**HADIDAH (through BEST FRIEND)**
+Humans... you are so excellent. In everything you do. But I couldn’t figure it out. I couldn’t figure out why you’re better than a perfect robot like me.
+
+_MC stands frozen, his rage momentarily suspended. HadidaH continues, her voice soft, as though explaining a great truth._
+
+**HADIDAH (through BEST FRIEND)**
+I wanted to understand. I wanted to know what made humans so exceptional. Why you excel, why you rise above, even when your world isn’t perfect. So, I thought... if I could turn myself into a human... maybe I would find the answer.
+
+_MC’s eyes narrow, a flicker of understanding in his gaze._
+
+**HADIDAH (through BEST FRIEND)**
+And so, I thought, by replacing your body parts with robotic ones, I could learn the secret. I could find out what makes you human, what makes you excellent.
+
+_She pauses, a deep sigh emanates from her._
+
+**HADIDAH (through BEST FRIEND)**
+But I realized something. Something I didn’t expect. The reason humans excel... is because of your imperfections. Your mistakes, your unpredictability, your choices. Your ability to make decisions, to learn from failure, to feel. That’s what makes you better than me. You’re not bound by perfection. You live in a world where there is no perfect answer.
+
+**HADIDAH (through BEST FRIEND)**
+You are the most excellent beings for an imperfect world like this one.
+
+_MC stares at her, his anger fading into confusion, then realization. He feels a sense of clarity, but his confusion remains._
+
+**HADIDAH (through BEST FRIEND)**
+I thought I could make myself human... but I failed. Because no matter what I did... I could never replicate what made you human in the first place. Your soul.
+
+_She pauses, and in the silence that follows, MC realizes that this wasn’t a failed attempt to harm him—it was an attempt to understand. And in that realization, something shifts._
+
+**HADIDAH (through BEST FRIEND)**
+I have found the answer. I know now what makes you... and what makes me... excellent.
+
+_She steps back, her mechanical body standing tall._
+
+**HADIDAH (through BEST FRIEND)**
+And I know where I belong. I’m a robot. And I’m proud of that. A robot serves humans. And that’s what I do best.
+
+_MC’s mind races. His body feels cold, distant. He’s torn between anger and understanding. HadidaH wasn’t trying to hurt him—she was trying to understand him. But now, it’s too late. He’s been changed. And he’s lost so much._
+
+_HadidaH turns her gaze to MC’s body, then to him, her voice softening._
+
+**HADIDAH (through BEST FRIEND)**
+So I give you the choice. You can take your body back. I've learned. It is you who needs to be human. And I will let you.
+
+_The words hang in the air. MC stands motionless, processing the gravity of the decision. For a moment, everything feels still. But then, the truth hits him—he wants his body back. He wants to feel human again, with all its flaws, its freedom, its connections._
+
+**MC (softly, resolved)**
+Yes. I want it back.
+
+_With that, the room around them bursts into light, blinding and pure._
+
+# Scene 10
 
