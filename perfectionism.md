@@ -185,11 +185,6 @@ _He continues pressing the weight, increasing his reps. His legs are working in 
 
 _He racks the weights and stands up, his heart racing—not from exertion, but from the pure adrenaline of strength he never thought he could have. He stares at his legs, as if they belong to someone else. He takes a few steps forward, testing them again, this time without the machine to hold him._  
 
-**MC (laughing, amazed)**  
-Yes!  
-
-_He moves across the gym floor, walking with confidence. No hesitation. He jogs to the far side of the room, just to test it out, but it's too easy. His legs are perfect now. No sign of pain, no tightness. Just fluid motion. He laughs again, this time a little louder, filled with disbelief and excitement._  
-
 **MC (grinning, to himself)**  
 My workouts, they're **perfect**!  
 
