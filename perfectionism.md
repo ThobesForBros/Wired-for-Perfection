@@ -427,7 +427,7 @@ _With a roar of anger and fear, he storms out of his apartment, rushing through 
 
 _The world outside is dark, the streets quiet, but within him, a storm of emotion brews, as he races toward the scooter that will give him answers._
 
-# Scene 9 | Chase Scene
+# Scene 9 | Chase Scene + HadidaH's Monologue
 
 **EXT. UT DALLAS CAMPUS - NIGHT**
 
