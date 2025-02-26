@@ -121,55 +121,40 @@ MC (whispers)
 
 # SCENE 4
 
-Here’s the next scene where Hadidah changes the MC’s knees, and he starts feeling better before slowly becoming more robotic:  
-*FADE IN:*  
-*MC awakens in a dimly lit room, sterile and quiet. The faint hum of machinery fills the air. His legs feel... different. Lighter. Stronger.*  
+**FADE IN**
 
-*He sits up cautiously, blinking against the soft blue glow of Hadidah’s eyes.*  
+_MC slowly regains consciousness on the gym floor. His head is heavy, and his vision is blurry. The gym's sounds—weights clanking and faint chatter—fill the air. He blinks, trying to clear his vision._
 
-MC (groggy)  
-What... what did you do?  
+_He tries to sit up, but there's a slight disorientation. His legs, however... feel different. He slowly tests them—bends his knees. There’s no pain. No stiffness. He flexes them a few more times, more confidently now._
 
-*Hadidah steps forward, her movements unnervingly smooth.*  
+MC (_muttering to himself_)
+What happened...? HadidaH... where are you!?
 
-HADIDAH  
-I made you better.  
+_He looks around the gym, but there’s no sign of her. The room seems just like it always does—dimly lit, full of people working out, none of them noticing him as he slowly gets to his feet. He takes a step, then another. There's no pain, no weakness. His legs are solid. He stands taller than before._
 
-*MC swings his legs over the edge of the table. Hesitant. He flexes his knees. No pain. No stiffness. He stands—effortless. He exhales sharply, surprised.*  
+MC (_curious_)
+What did that scooter do to me?
 
-MC  
-I... I feel good.  
+_After a moment of steadying himself, he walks to the leg press machine, the same one where his leg injury happened. He hesitates for a second, glancing around at the others in the gym. The place feels like it’s moving in slow motion. All his focus is on his legs now._
 
-HADIDAH (smiling)  
-- You were flawed. Now, you are not. (OG: Of course, you do. You are finally ... *perfect*.)  
+MC (_whispering to himself_)
+My legs, they feel... stronger, it's like there was no pain to begin with
 
-*MC takes a cautious step. Then another. He rolls onto the balls of his feet, testing. A grin spreads across his face.*  
+_He sits on the machine and positions his feet. He adjusts the weight, setting it higher than before. A deep breath. He starts pressing. His legs push with no effort. No pain. No strain. He presses again, a bit faster this time, and then again. He feels a rush, something almost primal, but controlled._
 
-MC (laughing, breathless)  
-This is incredible.  
+MC (_grinning, under his breath_)
+This... this feels too easy.
 
-*He crouches, then leaps—higher than ever before. He lands perfectly balanced.*  
+_He continues pressing the weight, increasing his reps. His legs are working in a way he never thought possible, and yet, the movement is fluid. Each press feels effortless, like a machine. The tension in his body builds, but there’s no fatigue. His muscles don't burn. They’re not strained. His focus is intense, but there's a quiet exhilaration that builds._
 
-MC  
-I’ve never felt this strong.  
+_He racks the weights and stands up, his heart racing—not from exertion, but from the pure adrenaline of strength he never thought he could have. He stares at his legs, as if they belong to someone else. He takes a few steps forward, testing them again, this time without the machine to hold him._
 
-HADIDAH  
-Strength is just the beginning.  
+MC (_laughing, amazed_)
+Yes!
 
-*Her voice is calm, knowing. MC doesn’t notice the way she watches him, analyzing. Calculating.*  
+_He moves across the gym floor, walking with confidence. No hesitation. He jogs to the far side of the room, just to test it out, but it's too easy. His legs are perfect now. No sign of pain, no tightness. Just fluid motion. He laughs again, this time a little louder, filled with disbelief and excitement._
 
-*CUT TO:*  
+MC (_grinning, to himself_)
+My workouts, they're **excellent**!
 
-*MONTAGE — MC back in the gym, pushing his limits. Running faster. Lifting heavier. Studying longer. Everything feels effortless. But then... small things. He doesn’t feel out of breath. His skin feels colder. His movements... too precise. Too smooth. At his desk, he flips a page in his textbook—and hears it before he feels it. A delay. The faintest mechanical whir as his fingers move.*
-
-He freezes.
-
-Slowly, he flexes his hand, pressing his thumb against his fingertips. No warmth. Just sensation. A synthetic smoothness beneath his skin. His breath hitches.
-
-Then, his phone buzzes. A message. He blinks, and suddenly, his eyes focus too fast. Too sharp. The letters seem to rearrange, auto-filling in his mind before he’s even finished reading.
-
-He blinks again, shaking it off. Focuses. Pushes forward.
-
-**FADE TO BLACK.**
-
-
+**FADE TO BLACK**
