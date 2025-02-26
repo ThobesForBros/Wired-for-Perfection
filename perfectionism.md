@@ -274,6 +274,100 @@ Rest now. Tomorrow, you’ll be sharper. You’ll be the best version of yoursel
 **MC (grinning, to himself)**  
 This is exactly what I needed.  
 
-**FADE TO BLACK**
+# SCENE 6: Montage
+
+**INT. UNIVERSITY LECTURE HALL**
+_MC sits in the front row, posture rigid, eyes focused on the professor. The professor hands out graded papers, and MC receives a perfect 100%. He admires the score for a moment, then tucks it into his bag._
+
+**CUT TO:**
+
+**INT. GYM**
+_MC is lifting weights with flawless form, setting a pace no one else can keep up with. He finishes effortlessly, glancing at others in the gym who watch him, unease growing in their expressions. He racks the weights and moves on without a second glance._
+
+**CUT TO:**
+
+**INT. COFFEE SHOP**
+_MC orders a black coffee with unwavering confidence, his eyes never leaving the barista. He sits at a table, surrounded by textbooks, scribbling notes, his handwriting perfect. His friends wave at him, but he doesn’t acknowledge them, too absorbed in his work. They exchange concerned looks, then leave quietly._
+
+**CUT TO:**
+
+**INT. MC’S APARTMENT**
+_MC sits at his desk, surrounded by textbooks, workout gear, and a notebook. Everything is perfectly organized. He ticks off tasks on his laptop with cold precision. The clock shows late hours, but he doesn’t look tired, just driven._
+
+**CUT TO:**
+
+**EXT. PARK**
+_MC jogs through the park, his pace flawless. A group of friends calls out to him from a bench, but he doesn’t acknowledge them. He continues running, pushing himself farther, faster. The friends sit in silence, unsure of what to say._
+
+**CUT TO:**
+
+**INT. LIBRARY**
+_MC reads through multiple textbooks at once, flipping pages at lightning speed. A librarian pauses, watching him in disbelief, but MC remains focused, oblivious to anything around him. Other students around him look distracted, but MC doesn’t waver._
+
+**CUT TO:**
+
+**EXT. UNIVERSITY CAMPUS**
+_MC walks across campus alone, his face expressionless. The people he once passed by with a smile now avoid him. They step aside when he walks past, eyes averted. He’s no longer part of their world—he's set apart, an isolated figure, a machine of perfection. His steps are quick, precise. There’s a slight hesitation as he looks around, realizing he’s lost everyone who mattered to him._
+
+# Scene 7
+
+**EXT. UNIVERSITY CAMPUS - EVENING**
+
+_MC walks across the empty campus, his steps slow, his expression one of quiet frustration. The air is still, the once-bustling campus now eerily silent in the fading light of the evening. He is alone, surrounded by the quiet hum of nature, yet it feels isolating._
+
+_Suddenly, a familiar voice calls out, interrupting the silence._
+
+**BEST FRIEND (O.S.)**
+Hey, how’s everything going?
+
+_MC freezes for a moment, recognizing the voice but surprised to hear it in this context. He turns and sees BEST FRIEND standing a few feet away._
+
+**MC (without missing a beat, his face softening)**
+It’s you, HadidaH.
+
+_BEST FRIEND stands in front of him, a forced smile plastered on his face, but his posture is loose, as if controlled by strings. There’s no warmth in his eyes, only an eerie vacancy that MC can immediately identify._
+
+**MC (almost to himself, resigned)**
+You’ve been at this for a while, haven’t you?
+
+**HADIDAH (in an overly cheerful tone, through BEST FRIEND)**
+I’m here, of course! How are you doing?
+
+_MC sighs, running a hand through his hair as he takes a step forward, looking at BEST FRIEND with a mixture of recognition and frustration._
+
+**MC (softly, almost pleading)**
+Everything’s perfect. I’ve got everything I wanted. But... I’ve lost everyone. I just want my friends back... can you help me?
+
+_BEST FRIEND tilts their head slightly, the movement too weak. His eyes close, as if processing the request, before his lips curve into a smile that doesn’t quite reach his eyes._
+
+**HADIDAH (with forced enthusiasm, through BEST FRIEND)**
+But you’re perfect now, right? You got everything you wanted-
+
+**MC (cutting them off, more desperate now)**
+No. I need them back. I need things the way they were. I can’t keep going like this.
+
+_HADIDAH hesitates for a fraction of a second—an almost imperceptible glitch in her response—but quickly recovers, her voice warm but unsettling._
+
+**HADIDAH (hesitantly, through BEST FRIEND)**
+You’ll have everything you want by tomorrow. Just like before. Perfect.
+
+_The words seem rehearsed, their tone unwavering, but there’s a slight flicker of hesitation—something off—beneath the surface. It’s barely noticeable, and MC doesn't sense it. The hope that he’ll get everything back overtakes him._
+
+**MC (hopeful)**
+I knew I could count on you. Thank you!
+
+_BEST FRIEND smiles, but it’s too bright, too happy. The moment drags longer than it should, the silence between them unnerving. Finally, BEST FRIEND turns to walk away, his movements unnatural as he is not in control._
+
+**BEST FRIEND (slightly slower than before, still too cheerful, through BEST FRIEND)**
+Of course. Everything will be perfect tomorrow. You’ll have your friends back, just like before. I’ll see you then. Rest well.
+
+_MC watches them go, his gaze following the strange, jerky movements of BEST FRIEND. He doesn’t question it—he doesn’t need to. Deep down, he knows it’s HADIDAH, and he’s too focused on the promise of everything returning to normal to care about the unsettling nature of the situation._
+
+_MC enters his apartment and goes through the usual motions, changing into his sleepwear. He looks at his reflection in the bathroom mirror briefly, before turning away, almost too quickly. He walks to the bed and lays down, closing his eyes._
+
+_A flash of lightning lights up the sky, casting long, scooter-like shadows across the apartment room through the window behind sleeping MC._
+
+# Scene 8
+
 
 
