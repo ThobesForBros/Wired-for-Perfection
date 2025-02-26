@@ -116,7 +116,7 @@ No more pain. No more exhaustion. No more failure.
 *MC’s heartbeat pounds in his ears. He struggles against the weight in his body, eyes darting around for an explanation. Then, behind his best friend, he sees it—a SCOOTER parked in the shadows. Its interface flickers faintly, pulsing like a heartbeat.*  
 
 **MC (hoarse, barely a whisper)**  
-Who... are you?  
+The... scooter? Who... are you?  
 
 *His best friend kneels beside him, but the hand on his shoulder is too precise, too steady. Not human. His voice is soft, persuasive, but the words feel rehearsed, calculated.*  
 
@@ -194,4 +194,84 @@ _He moves across the gym floor, walking with confidence. No hesitation. He jogs 
 My workouts, they're **excellent**!  
 
 **FADE TO BLACK**  
+
+# SCENE 5  
+
+**FADE IN**  
+
+*MC sits alone at a small table in a quiet café. The atmosphere is warm and casual, with the hum of low conversations and the clink of coffee cups. He’s staring down at an exam sheet in front of him, his eyes narrowing in disbelief. A grade of 90, but it’s not enough for him. He grits his teeth, clearly dissatisfied.*  
+
+**MC (under his breath)**  
+This... this isn’t enough.  
+
+*He slouches in his chair, frustration building. He shoves the sheet aside and looks around, hoping for some distraction. The waiter, a young man, approaches the table with a polite smile.*  
+
+**WAITER**  
+Hey there. What can I get you today?  
+
+*MC stares at the menu for a moment, but the words feel distant. He barely registers them, his mind still fixated on the grade.*  
+
+**MC (distantly)**  
+Black coffee.  
+
+**WAITER**  
+Got it. One black coffee.  
+
+*The waiter nods and turns to leave, but MC’s gaze follows him, a flicker of frustration crossing his face as he mutters to himself.*  
+
+**MC (whispering to himself)**  
+I wish HadidaH could fix my brain too.  
+
+*As he speaks, the lights above flicker. The soft buzzing of the café dims, and an unsettling chill fills the air. The lights dull to a flickering, cold hue. MC’s eyes widen, but he doesn't recoil. Instead, there’s an almost intrigued look on his face. The waiter suddenly stops, his body going still, too still. His head tilts, unnaturally, and the faint hum of the scooter’s interface echoes through the air.*  
+
+**MC (shocked)**  
+HadidaH.  
+
+*The waiter’s lips move, but it’s not his voice that comes out. It’s the distorted, layered voice of HadidaH, speaking through him with an unnatural calmness, almost sweet in tone.*  
+
+**HADIDAH (through WAITER)**  
+I can fix your mind. Just like I fixed your legs.  
+
+*The air grows heavy. The café, which once felt warm, now feels cold and distant. The waiter’s eyes are vacant, his movements smooth and mechanical as he steps closer to MC’s table. His smile is wide but devoid of life, like a puppet being controlled from somewhere far away.*  
+
+**MC (leaning forward, intrigued)**  
+You can? You really can?  
+
+*HADIDAH's voice rings out with certainty, smooth and persuasive.*  
+
+**HADIDAH (through WAITER)**  
+You’ve only scratched the surface of your potential. I can make you smarter, more focused, faster. You won’t need to waste time on things you can’t control. I can fix your brain, just like I fixed your legs.  
+
+*MC’s eyes glisten with anticipation. His hand clenches the edge of the table as he looks up at the waiter-turned-puppet.*  
+
+**MC (eagerly)**  
+That sounds... exactly like what I need.  
+
+*The waiter moves closer still, his movements jerky and unnatural, but MC doesn’t flinch. He’s focused, his thoughts already drifting to the possibilities.*  
+
+**MC (with a smile)**  
+I’m ready. Do it.  
+
+*HADIDAH’s voice is softer now, almost coaxing.*  
+
+**HADIDAH (through WAITER)**  
+I don’t want to hurt you like I did last time. That wasn’t necessary. This time, I promise you’ll feel nothing at all.  
+
+*MC nods in eager agreement, his eyes burning with a desire for change.*  
+
+**MC (nodding)**  
+I don’t care. Just make me better. Make me smarter.  
+
+*The waiter’s hand reaches toward MC’s face, but it’s not a comforting touch. It’s an eerie, calculated motion, like the hand of something inhuman.*  
+
+**HADIDAH (through WAITER, softly)**  
+Rest now. Tomorrow, you’ll be sharper. You’ll be the best version of yourself.  
+
+*The waiter steps back, his body stiff as a board, then walks away. The café returns to its normal ambiance, as if nothing had ever happened. The lights flicker back to their regular brightness. MC sits back down, a contented smile creeping onto his face, his mind already racing with possibilities.*  
+
+**MC (grinning, to himself)**  
+This is exactly what I needed.  
+
+**FADE TO BLACK**
+
 
