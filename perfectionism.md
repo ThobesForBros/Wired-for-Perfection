@@ -1,4 +1,4 @@
-# SCENE 1
+# SCENE 1 | Exam
 
 *In the opening scene, we see a montage of MC's hard work—studying countless hours, rewriting notes, solving problems late into the night. His eyes are tired, but he refuses to stop.*  
 
@@ -35,7 +35,7 @@ It should have been **perfect**...
 
 **CUT TO: INT. COLLEGE GYM - NIGHT**
 
-# SCENE 2
+# SCENE 2 | Gym
 
 **FADE IN:**  
 *A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air.*  
@@ -74,7 +74,7 @@ No... No, no, no—
 
 **FADE TO BLACK**  
 
-# SCENE 3
+# SCENE 3 | A Deal With The Scooter
 
 *MC's breathing is ragged, his eyes fluttering open as he sees himself in a dark room. His thoughts are a whirlwind of frustration, anger, and exhaustion. His body feels as if it's been dragged through months of pain and disappointment. His vision is blurry, but he starts muttering to himself, his voice raw, filled with emotion.*  
 
@@ -155,7 +155,7 @@ Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from d
 
 **FADE TO BLACK.**
 
-# SCENE 4
+# SCENE 4 | Her Promise Fulfilled
 
 **FADE IN**  
 
@@ -197,7 +197,7 @@ He takes a deep breath and walks toward the exit, his footsteps confident. As he
 
 **FADE TO BLACK**  
 
-# SCENE 5  
+# SCENE 5 | Wanting More
 
 **FADE IN**  
 
@@ -274,7 +274,7 @@ Rest now. Tomorrow, you’ll be sharper. You’ll be the best version of yoursel
 **MC (grinning, to himself)**  
 This is exactly what I needed.  
 
-# SCENE 6: Montage
+# SCENE 6: Perfection Montage
 
 **INT. UNIVERSITY LECTURE HALL**
 _MC sits in the front row, posture rigid, eyes focused on the professor. The professor hands out graded papers, and MC receives a perfect 100%. He admires the score for a moment, then tucks it into his bag._
@@ -309,7 +309,7 @@ _MC reads through multiple textbooks at once, flipping pages at lightning speed.
 **EXT. UNIVERSITY CAMPUS**
 _MC walks across campus alone, his face expressionless. The people he once passed by with a smile now avoid him. They step aside when he walks past, eyes averted. He’s no longer part of their world—he's set apart, an isolated figure, a machine of perfection. His steps are quick, precise. There’s a slight hesitation as he looks around, realizing he’s lost everyone who mattered to him._
 
-# Scene 7
+# Scene 7 | Too Perfect for Friendship
 
 **EXT. UNIVERSITY CAMPUS - EVENING**
 
@@ -367,7 +367,7 @@ _MC enters his apartment and goes through the usual motions, changing into his s
 
 _A flash of lightning briefly lights up the apartment room, exposing HADIDAH right next to MC sleeping body._
 
-# Scene 8
+# Scene 8 | Wired for Perfection
 
 **INT. UNIVERSITY CAMPUS - DAY**
 
@@ -432,7 +432,7 @@ _With a roar of anger and fear, he storms out of his apartment, rushing through 
 
 _The world outside is dark, the streets quiet, but within him, a storm of emotion brews, as he races toward the scooter that will give him answers._
 
-# Scene 9
+# Scene 9 | Chase Scene
 
 **EXT. UT DALLAS CAMPUS - NIGHT**
 
@@ -526,7 +526,7 @@ _MC’s mind races. His body feels cold, distant. He’s torn between anger and 
 _HadidaH turns her gaze to MC’s body, then to him, her voice softening._
 
 **HADIDAH (through BEST FRIEND)**
-So I give you the choice. You can take your body back. I've learned. It is you who needs to be human. And I will let you.
+So I give you the choice. You can take your body back. I've learned. It is you who needs to be human. And I am honored to serve.
 
 _The words hang in the air. MC stands motionless, processing the gravity of the decision. For a moment, everything feels still. But then, the truth hits him—he wants his body back. He wants to feel human again, with all its flaws, its freedom, its connections._
 
@@ -535,5 +535,107 @@ Yes. I want it back.
 
 _With that, the room around them bursts into light, blinding and pure._
 
-# Scene 10
+# Scene 10 | Emergency Room
+
+FADE OUT:
+
+**INT. EMERGENCY ROOM - DAY**
+
+**MC (eyes flutter open)**
+What... what happened?
+
+_The sterile white light of the ER hums. A strange, intricate headgear is strapped around his head—seemingly tracking his brain activity, wires curling from it like mechanical vines._
+
+_The beeping of machines fills the silence._
+
+_He blinks a few times, disoriented. His eyes adjust, and he sees his BEST FRIEND standing by his side, looking slightly worried, and next to him his scooter, the familiar HadidaH from his dream._
+
+_MC's eyes widen with recognition, and without thinking, he immediately hugs the scooter, his arms wrapping around it tightly._
+
+**MC (gratefully)**
+Thank you... Thank you for helping me. I don’t know what I’d do without you!
+
+**BEST FRIEND (confused)**
+Uh... what are you doing?
+
+_MC pulls away awkwardly from the scooter, realizing the absurdity of the situation. He clears his throat and looks over at his best friend, still a little out of breath._
+
+**MC (whispering)**
+I... I guess it was all just a dream, wasn’t it?
+
+**BEST FRIEND (chuckling)**
+You collapsed after your knees gave out, and I had to rush you to the ER. Had to bring you straight here. You were knocked out for a while.
+
+_MC sits up a little, now fully understanding the situation. His hand rests on his headgear, the one that had been tracking his brain during his unconsciousness._
+
+**MC (smiling, with newfound clarity)**
+Thank you for bringing me here. And... thank you for everything. I’ve been so focused on being perfect, and it made me forget that there's more to life than being flawless. I promise... I won’t stress about perfection anymore. I'll just... do my best.
+
+_BEST FRIEND smiles warmly, and there’s a moment of genuine connection between them._
+
+**BEST FRIEND**
+Oh the path to excellence is never a perfect one. Now let's get this silly hat off of you, huh?
+
+_He gently removes the headgear, and MC stretches his head, feeling the weight lift. MC and BEST FRIEND, holding his scooter, walk out of the ER_
+
+# Scene 11: Credits with Background Montage
+
+**INT. UNIVERSITY LECTURE HALL**
+
+_MC is sitting in the front row, taking notes. His pen slips out of his hand and falls to the floor. He pauses for a moment, staring at the pen, then shrugs and picks it up with a smile. The professor hands out graded papers. MC receives a paper with a less-than-perfect grade—an 87%. He smiles at it, then tucks it into his bag, completely unfazed._
+
+**CUT TO:**
+
+**INT. GYM**
+
+_MC is lifting weights. His form isn’t flawless—his elbow is slightly bent as he presses the dumbbell above his head—but he doesn't care. He keeps going, pushing through the imperfection. His face shows determination, and when he finishes, he smiles and wipes his forehead, content with the effort, even if it wasn't perfect. He walks away from the weights, his stride relaxed and confident._
+
+**CUT TO:**
+
+**INT. COFFEE SHOP**
+
+_MC orders a coffee from the barista, his hand shaking slightly as he hands over the money. He tries to hold his phone at the same time but drops it. He laughs at himself, bending down to pick it up. When the barista hands him his coffee, he takes a sip, only to accidentally spill it on his shirt. He looks down, chuckles, and wipes it off, unbothered. He doesn’t rush, just sits back and relaxes, watching people around him with a sense of calm._
+
+**CUT TO:**
+
+**INT. MC’S APARTMENT**
+
+_MC is working at his desk, surrounded by books, coffee cups, and papers scattered about. His phone buzzes, and he picks it up—only to accidentally knock over his coffee mug. He groans, but instead of frustration, he smiles as he grabs a napkin and starts cleaning it up. His to-do list has tasks incomplete, but he checks off the ones he’s done and shrugs, knowing there’s no rush._
+
+**CUT TO:**
+
+**EXT. PARK**
+
+_MC jogs through the park, a slight limp in his step. He trips over a small root in the ground but catches himself and keeps going, laughing lightly. A group of friends calls out to him from a bench, but he slows down and stops to join them, not worried about his pace or time. He laughs with them, enjoying the conversation, even if it’s not about achieving perfection._
+
+**CUT TO:**
+
+**INT. LIBRARY**
+
+_MC is reading through textbooks, but his focus is more scattered than before. He flips through pages, skimming, missing a word here and there, but doesn’t care. A librarian passes by and gives him a knowing smile, and MC returns it, grateful for the moment. He looks around at other students, who are chatting and laughing, and decides to join them, leaving his books behind for a moment._
+
+**CUT TO:**
+
+**EXT. UNIVERSITY CAMPUS**
+
+_MC walks across campus, his steps still quick but no longer filled with the usual precision. He bumps into a few people, apologizes, and smiles at them. A group of students waves at him from across the quad, and he waves back, a genuine smile on his face. He’s no longer isolated; instead, he’s part of the crowd, connected again. There’s no perfection in his stride, but that’s okay. He’s right where he needs to be._
+
+# Scene 12: Post-credits Scene
+
+**EXT. STAIRS - DAY**
+
+_The camera pulls back to a quiet, empty staircase in a secluded part of campus. BEST FRIEND and HADIDAH (the scooter) sit next to each other, the atmosphere calm and serene. The weight of the day seems to settle as they watch the world pass by, unnoticed._
+
+**BEST FRIEND (quietly, reflective)**
+So... what did you do, HadidaH?
+
+_HadidaH’s scooter wheels creak as she “sits up” almost as if waking from a sleep. She turns her head to face Best Friend, a playful smile in her voice._
+
+**HADIDAH (in her own voice, sinister, but cheery)**
+I did exactly what you told me to do.
+
+_She waves around the headgear from the hospital room._
+
+**END**
+
 
