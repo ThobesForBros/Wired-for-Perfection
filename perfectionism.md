@@ -626,7 +626,7 @@ _MC walks across campus, his steps still quick but no longer filled with the usu
 
 _The camera pulls back to a quiet, empty staircase in a secluded part of campus. BEST FRIEND and HADIDAH (the scooter) sit next to each other, the atmosphere calm and serene. The weight of the day seems to settle as they watch the world pass by, unnoticed._
 
-**BEST FRIEND (quietly, reflective)**
+**BEST FRIEND (smiling, reflective)**
 So... what did you do, HadidaH?
 
 _HadidaH’s scooter wheels creak as she “sits up” almost as if waking from a sleep. She turns her head to face Best Friend, a playful smile in her voice._
