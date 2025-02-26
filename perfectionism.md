@@ -523,7 +523,7 @@ _MC’s mind races. His body feels cold, distant. He’s torn between anger and 
 _HadidaH turns her gaze to MC’s body, then to him, her voice softening._
 
 **HADIDAH (through BEST FRIEND)**
-So I give you the choice. You can take your body back. I've learned. It is you who needs to be human. And I am honored to serve.
+So I give you the choice. You can take your body back. I've learned it is you who needs to be human. And I am honored to serve.
 
 _The words hang in the air. MC stands motionless, processing the gravity of the decision. For a moment, everything feels still. But then, the truth hits him—he wants his body back. He wants to feel human again, with all its flaws, its freedom, its connections._
 
