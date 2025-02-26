@@ -534,7 +534,7 @@ _With that, the room around them bursts into light, blinding and pure._
 
 # Scene 11 | Emergency Room
 
-FADE OUT:
+**FADE OUT:**
 
 **INT. EMERGENCY ROOM - DAY**
 
