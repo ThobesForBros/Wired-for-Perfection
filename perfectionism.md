@@ -1,160 +1,197 @@
-# SCENE 0
+# SCENE 0  
 
-*In the opening scene, we see a montage of MC's hard work. Studying countless hours to get the "perfect" grade*
+*In the opening scene, we see a montage of MC's hard work—studying countless hours, rewriting notes, solving problems late into the night. His eyes are tired, but he refuses to stop.*  
 
-*MC in class getting his paper from an exam while his friend receives it first* 
+*CUT TO: INT. COLLEGE CLASSROOM - DAY*  
 
-Friend 1
-  Bro! I got a 70! I thought I bombed it! (he says excitedly) 
-  
-MC (receives test & MC looks sad and slightly disappointed)
+*MC sits at his desk, tapping his pencil anxiously as the professor hands back graded exams. His BEST FRIEND, sitting next to him, grabs his paper first.*  
 
-Friend 1
-  (worryingly) What's wrong, Habibi? What did you get? 
-  
-MC (softly) 
-  I got a 90. 
-  
-Friend 1 (excited) 
-  DUDE! THAT'S AMAZING! 
-  
-MC 
-  No, it's not. I should have got a perfect score. 
-  
-Friend 1
-  Bro, what are you talking about? That test was really hard! You did good! 
-  
-MC (mumbling)
-  It should have been **perfect** 
+**BEST FRIEND**  
+Bro! I got a 70! Man I thought I bombed that exam! (he says excitedly)  
 
-# SCENE 1
+*MC receives his test and stares at the score: 90. His grip tightens slightly on the paper.*  
 
-*INT. COLLEGE GYM - NIGHT* 
+**BEST FRIEND**  
+(worryingly) What's wrong, Habibi? What did you get?  
 
-FADE IN:
-*A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air.*
-*MC (early 20s, lean, determined) is mid-rep on the leg press machine, his face contorted with exertion. Sweat beads on his forehead, muscles strained. His FRIENDS linger nearby, chatting casually.*
+**MC (softly)**  
+I got a 90.  
 
-Friend 1
-  Dude, you’ve been at this for hours. Take a break.
-  
-Friend 2
-  Seriously, man. What are you even trying to prove?
-  
-*MC exhales sharply, pushing out another rep. His eyes are locked forward—determined, distant.*
+**BEST FRIEND (excited)**  
+DUDE! THAT'S AMAZING!  
 
-MC
-  Just one more set.
-  
-*He racks the weights, panting. His legs shake as he stands. A moment of dizziness—*
+**MC**  
+No, it's not. I should have got a perfect score.  
 
-Friend 1
-  C’mon, you’re killing yourself over this.
-  
-MC
-  I’m fine.
-  
-*He takes a step forward—his knee BUCKLES—sickening POP echoes. MC gasps, collapsing onto the rubber floor.*
+**BEST FRIEND**  
+Bro, what are you talking about? That test was really hard! You were excellent!  
 
-MC (groaning)
-  No... No, no, no—
-  
-*The room spins. Friends rush to him, their voices muffled, distant. His vision tunnels.*
+**MC (mumbling, barely audible)**  
+It should have been **perfect**...  
 
-**FADE TO BLACK**
+*MC stares at the number on the page, eyes empty. The classroom noise fades into the background. His fingers curl around the paper, crumpling it slightly.*  
 
-# SCENE 2
+*His breathing steadies. Determination flickers in his eyes. He closes his notebook and stands up.*  
 
-*A VOICE—soft, familiar, yet... wrong.*
+**CUT TO: INT. COLLEGE GYM - NIGHT**
 
-VOICE (O.S.)
-  I can fix you.
-  
-*A FAINT BLUE LIGHT glows in the darkness. MC’s breathing is ragged. He blinks, trying to focus. The silhouette of his BEST FRIEND emerges, eerily still, bathed in cold, unnatural light.*
+# SCENE 1  
 
-MC (weakly)
-  You... What are you saying?
-  
-*His best friend’s head tilts—too smooth, too mechanical. His lips move, but the voice that emerges is layered and distorted.*
+**FADE IN:**  
+*A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air.*  
+*MC (early 20s, lean, determined) is mid-rep on the leg press machine, his face contorted with exertion. Sweat beads on his forehead, muscles strained. His BEST FRIEND and another FRIEND linger nearby, chatting casually.*  
 
-BEST Friend (HADIDAH) 
-  I can make you perfect.
-  
-*MC’s eyes widen in horror as the blue light pulses, illuminating the metallic glint in his friend’s eyes.*
+**BEST FRIEND**  
+Dude, you’ve been at this for hours. Take a break.  
 
-**SMASH CUT TO BLACK**
+**FRIEND**  
+Seriously, man. What are you even trying to prove?  
 
-# SCENE 3
+*MC exhales sharply, pushing out another rep. His eyes are locked forward—determined, distant.*  
 
-*MC struggles to move, his limbs heavy as if submerged in water. HadidaH steps forward, voice softer now, almost... reassuring.*  
+**MC**  
+Just one more set.  
 
-HADIDAH  
-  No more pain. No more exhaustion. No more failure.  
+*BEST FRIEND and FRIEND exchange a glance. They know this routine. They’ve seen it before.*  
 
-*MC breathes heavily, mind spinning. HadidaH extends a hand.*  
+**BEST FRIEND**  
+Look, man, we get it. You want to be the best. But killing yourself over numbers—whether it’s grades or weights—isn’t gonna make you excellent.  
 
-HADIDAH  
-  You push yourself so hard, but I can take that burden away. You’ll never have to struggle again. No more injuries. No more disappointment. Just... excellence.  
+*MC’s jaw tightens. He doesn’t respond. Instead, he racks the weights, panting. His legs shake as he stands. A moment of dizziness—*  
 
-MC (shaky)  
-  But... what’s the cost?  
+**FRIEND**  
+C’mon, man. At least drink some water.  
 
-*HadidaH kneels beside him, placing a hand on his shoulder. The metallic sheen of her fingers catches the light.*  
+**MC**  
+I’m fine.  
 
-HADIDAH  
-  Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from distraction. The best version of yourself. The perfection you always wanted. 
+*He takes a step forward—his knee BUCKLES—sickening POP echoes. MC gasps, collapsing onto the rubber floor.*  
 
-*MC looks down at his trembling hands. The words echo in his head—perfection. His lifelong pursuit. His biggest frustration. A chance to never feel weak again.*  
+**MC (groaning)**  
+No... No, no, no—  
 
-*HadidaH tilts her head, waiting.*  
+*The room spins. BEST FRIEND and FRIEND rush to him, their voices muffled, distant. His vision tunnels.*  
 
-HADIDAH  
-  All you have to do is say yes.  
+**FADE TO BLACK**  
 
-*MC hesitates. His breath is shallow. A moment of silence stretches between them.*  
+# SCENE 2  
 
-MC (whispers)  
-  ...Yes.  
-- maybe mc gets knocked out by scooter idk
+*MC's breathing is ragged, his eyes fluttering open as he sees himself in a dark room. His thoughts are a whirlwind of frustration, anger, and exhaustion. His body feels as if it's been dragged through months of pain and disappointment. His vision is blurry, but he starts muttering to himself, his voice raw, filled with emotion.*  
 
-**FADE TO BLACK**
+**MC (angry, to himself)**  
+I've been working so hard... and for what!?  
 
-# SCENE 4
+*He clenches his fists, wincing at the pain that flares up in his body, but he ignores it. His hands dig into the cold floor as he tries to push himself up, his legs unresponsive. The frustration boils over, and he grits his teeth.*  
 
-**FADE IN**
+**MC (furiously)**  
+Every day... hours and hours of sweat, of pain, of failure... and now, this?
 
-_MC slowly regains consciousness on the gym floor. His head is heavy, and his vision is blurry. The gym's sounds—weights clanking and faint chatter—fill the air. He blinks, trying to clear his vision._
+*His eyes catch sight of his legs, a reminder of the setback he's facing. His knee is injured, and the recovery feels endless. He attempts to crawl, dragging his injured leg behind him, but the movement is slow, painful. His breathing becomes more erratic as the weight of his frustration crushes him.*  
 
-_He tries to sit up, but there's a slight disorientation. His legs, however... feel different. He slowly tests them—bends his knees. There’s no pain. No stiffness. He flexes them a few more times, more confidently now._
+**MC (weakly, to no one in particular)**  
+Months of progress... gone. I’m stuck.  
 
-MC (_muttering to himself_)
-What happened...? HadidaH... where are you!?
+*He manages to crawl a little further, but his body is drained. His chest heaves with each breath, the air too thick to take in. He stops, unable to continue. For a moment, the room is silent, save for the sound of his ragged breathing.*  
 
-_He looks around the gym, but there’s no sign of her. The room seems just like it always does—dimly lit, full of people working out, none of them noticing him as he slowly gets to his feet. He takes a step, then another. There's no pain, no weakness. His legs are solid. He stands taller than before._
+*A VOICE—soft, familiar, yet... wrong.*  
 
-MC (_curious_)
-What did that scooter do to me?
+**VOICE (O.S.)**  
+I can fix you.  
 
-_After a moment of steadying himself, he walks to the leg press machine, the same one where his leg injury happened. He hesitates for a second, glancing around at the others in the gym. The place feels like it’s moving in slow motion. All his focus is on his legs now._
+*A FAINT BLUE LIGHT glows in the darkness. MC’s breathing is ragged. He blinks, trying to focus. A silhouette emerges—his BEST FRIEND, standing eerily still, bathed in cold, unnatural light.*  
 
-MC (_whispering to himself_)
-My legs, they feel... stronger, it's like there was no pain to begin with
+**MC (weakly)**  
+You... What are you saying?  
 
-_He sits on the machine and positions his feet. He adjusts the weight, setting it higher than before. A deep breath. He starts pressing. His legs push with no effort. No pain. No strain. He presses again, a bit faster this time, and then again. He feels a rush, something almost primal, but controlled._
+*His best friend’s head tilts—not quite right, like a puppet with invisible strings. His lips move, but the voice that emerges is layered, distorted—familiar yet artificial.*  
 
-MC (_grinning, under his breath_)
-This... this feels too easy.
+**HADIDAH (through BEST FRIEND)**  
+I can make you excellent.  
 
-_He continues pressing the weight, increasing his reps. His legs are working in a way he never thought possible, and yet, the movement is fluid. Each press feels effortless, like a machine. The tension in his body builds, but there’s no fatigue. His muscles don't burn. They’re not strained. His focus is intense, but there's a quiet exhilaration that builds._
+*MC tries to move, but his limbs feel like they’re submerged in water—slow, heavy, unresponsive. His best friend steps forward, but something about the way he moves is unnatural. Too smooth. Too controlled. His eyes seem... vacant, like he’s looking through MC instead of at him.*  
 
-_He racks the weights and stands up, his heart racing—not from exertion, but from the pure adrenaline of strength he never thought he could have. He stares at his legs, as if they belong to someone else. He takes a few steps forward, testing them again, this time without the machine to hold him._
+**HADIDAH (soft, almost soothing, through BEST FRIEND)**  
+No more pain. No more exhaustion. No more failure.  
 
-MC (_laughing, amazed_)
-Yes!
+*MC’s heartbeat pounds in his ears. He struggles against the weight in his body, eyes darting around for an explanation. Then, behind his best friend, he sees it—a SCOOTER parked in the shadows. Its interface flickers faintly, pulsing like a heartbeat.*  
 
-_He moves across the gym floor, walking with confidence. No hesitation. He jogs to the far side of the room, just to test it out, but it's too easy. His legs are perfect now. No sign of pain, no tightness. Just fluid motion. He laughs again, this time a little louder, filled with disbelief and excitement._
+**MC (hoarse, barely a whisper)**  
+Who... are you?  
 
-MC (_grinning, to himself_)
-My workouts, they're **excellent**!
+*His best friend kneels beside him, but the hand on his shoulder is too precise, too steady. Not human. His voice is soft, persuasive, but the words feel rehearsed, calculated.*  
 
-**FADE TO BLACK**
+**HADIDAH (through BEST FRIEND)**  
+I am HadidaH. And I can help you become something greater.  
+
+*MC breathes heavily, mind spinning. His best friend’s eyes don’t blink. They don’t shift. They only stare. The scooter’s glow pulses steadily, like it’s watching him.*  
+
+**MC (shaky)**  
+But... what’s the cost?  
+
+*A pause. Then, HadidaH leans in through his best friend, voice a whisper, a lullaby of temptation.*  
+
+**HADIDAH (through BEST FRIEND)**  
+Oh, don’t worry about that. I’m getting exactly what I want out of this. And you... you’re getting everything you ever wanted.  
+
+*MC looks down at his trembling hands. The words echo in his head—excellence. His lifelong pursuit. His biggest frustration. A chance to never feel weak again.*  
+
+*His best friend—no, the puppet—tilts his head, waiting. His face is still, expectant.*  
+
+**HADIDAH (through BEST FRIEND)**  
+Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from distraction. The best version of yourself. The excellence you always wanted.  
+
+*MC hesitates. His breath is shallow. The air feels too thick. Then... slowly, his lips part.*  
+
+**MC (whispers)**  
+...Yes...yes...  
+
+*A low hum fills the space. The scooter’s interface flickers brighter, pulsing in sync with his best friend’s vacant stare. Then—*  
+
+**THUD.**  
+
+*Something STRIKES MC from behind. A sharp impact. His vision blurs. His body goes limp before he even understands what hit him.*  
+
+*The last thing he sees as darkness overtakes him... is his best friend’s frozen smile, empty and unblinking.*  
+
+**FADE TO BLACK.**
+
+# SCENE 3  
+
+**FADE IN**  
+
+_MC slowly regains consciousness on the gym floor. His head is heavy, and his vision is blurry. The gym's sounds—weights clanking and faint chatter—fill the air. He blinks, trying to clear his vision._  
+
+_He tries to sit up, but there's a slight disorientation. His legs, however... feel different. He slowly tests them—bends his knees. There’s no pain. No stiffness. He flexes them a few more times, more confidently now._  
+
+**MC (muttering to himself)**  
+What happened...? HadidaH... where are you!?  
+
+_He looks around the gym, but there’s no sign of her. The room seems just like it always does—dimly lit, full of people working out, none of them noticing him as he slowly gets to his feet. He takes a step, then another. There's no pain, no weakness. His legs are solid. He stands taller than before._  
+
+**MC (curious)**  
+What did that scooter do to me?  
+
+_After a moment of steadying himself, he walks to the leg press machine, the same one where his leg injury happened. He hesitates for a second, glancing around at the others in the gym. The place feels like it’s moving in slow motion. All his focus is on his legs now._  
+
+**MC (whispering to himself)**  
+My legs, they feel... stronger, it's like there was no pain to begin with.  
+
+_He sits on the machine and positions his feet. He adjusts the weight, setting it higher than before. A deep breath. He starts pressing. His legs push with no effort. No pain. No strain. He presses again, a bit faster this time, and then again. He feels a rush, something almost primal, but controlled._  
+
+**MC (grinning, under his breath)**  
+This... this feels too easy.  
+
+_He continues pressing the weight, increasing his reps. His legs are working in a way he never thought possible, and yet, the movement is fluid. Each press feels effortless, like a machine. The tension in his body builds, but there’s no fatigue. His muscles don't burn. They’re not strained. His focus is intense, but there's a quiet exhilaration that builds._  
+
+_He racks the weights and stands up, his heart racing—not from exertion, but from the pure adrenaline of strength he never thought he could have. He stares at his legs, as if they belong to someone else. He takes a few steps forward, testing them again, this time without the machine to hold him._  
+
+**MC (laughing, amazed)**  
+Yes!  
+
+_He moves across the gym floor, walking with confidence. No hesitation. He jogs to the far side of the room, just to test it out, but it's too easy. His legs are perfect now. No sign of pain, no tightness. Just fluid motion. He laughs again, this time a little louder, filled with disbelief and excitement._  
+
+**MC (grinning, to himself)**  
+My workouts, they're **excellent**!  
+
+**FADE TO BLACK**  
+
