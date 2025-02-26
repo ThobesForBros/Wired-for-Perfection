@@ -1,4 +1,4 @@
-# SCENE 0  
+# SCENE 1
 
 *In the opening scene, we see a montage of MC's hard work—studying countless hours, rewriting notes, solving problems late into the night. His eyes are tired, but he refuses to stop.*  
 
@@ -35,7 +35,7 @@ It should have been **perfect**...
 
 **CUT TO: INT. COLLEGE GYM - NIGHT**
 
-# SCENE 1  
+# SCENE 2
 
 **FADE IN:**  
 *A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air.*  
@@ -74,7 +74,7 @@ No... No, no, no—
 
 **FADE TO BLACK**  
 
-# SCENE 2  
+# SCENE 3
 
 *MC's breathing is ragged, his eyes fluttering open as he sees himself in a dark room. His thoughts are a whirlwind of frustration, anger, and exhaustion. His body feels as if it's been dragged through months of pain and disappointment. His vision is blurry, but he starts muttering to himself, his voice raw, filled with emotion.*  
 
@@ -155,7 +155,7 @@ Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from d
 
 **FADE TO BLACK.**
 
-# SCENE 3  
+# SCENE 4
 
 **FADE IN**  
 
