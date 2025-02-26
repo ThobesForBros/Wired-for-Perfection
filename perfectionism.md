@@ -1,4 +1,5 @@
-**Scene 0** 
+# SCENE 0
+
 *In the opening scene, we see a montage of MC's hard work. Studying countless hours to get the "perfect" grade*
 
 *MC in class getting his paper from an exam while his friend receives it first* 
@@ -26,9 +27,7 @@ Friend 1
 MC (mumbling)
   It should have been **perfect** 
 
-**END SCENE** 
----
-**Scene 1**
+# SCENE 1
 
 *INT. COLLEGE GYM - NIGHT* 
 
@@ -63,8 +62,9 @@ MC (groaning)
 *The room spins. Friends rush to him, their voices muffled, distant. His vision tunnels.*
 
 **FADE TO BLACK**
----
-**Scene 2**
+
+# SCENE 2
+
 *A VOICE—soft, familiar, yet... wrong.*
 
 VOICE (O.S.)
@@ -83,8 +83,8 @@ BEST Friend (HADIDAH)
 *MC’s eyes widen in horror as the blue light pulses, illuminating the metallic glint in his friend’s eyes.*
 
 **SMASH CUT TO BLACK**
----
-**Scene 3**  
+
+# SCENE 3
 
 *MC struggles to move, his limbs heavy as if submerged in water. HadidaH steps forward, voice softer now, almost... reassuring.*  
 
@@ -117,9 +117,10 @@ MC (whispers)
   ...Yes.  
 - maybe mc gets knocked out by scooter idk
 
-**FADE TO BLACK**  
----
-**Scene 4** 
+**FADE TO BLACK**
+
+# SCENE 4
+
 Here’s the next scene where Hadidah changes the MC’s knees, and he starts feeling better before slowly becoming more robotic:  
 *FADE IN:*  
 *MC awakens in a dimly lit room, sterile and quiet. The faint hum of machinery fills the air. His legs feel... different. Lighter. Stronger.*  
@@ -169,6 +170,6 @@ Then, his phone buzzes. A message. He blinks, and suddenly, his eyes focus too f
 
 He blinks again, shaking it off. Focuses. Pushes forward.
 
-**FADE TO BLACK.**  
+**FADE TO BLACK.**
 
 
