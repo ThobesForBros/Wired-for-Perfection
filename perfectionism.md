@@ -365,7 +365,7 @@ _MC watches them go, his gaze following the strange, jerky movements of BEST FRI
 
 _MC enters his apartment and goes through the usual motions, changing into his sleepwear. He looks at his reflection in the bathroom mirror briefly, before turning away, almost too quickly. He walks to the bed and lays down, closing his eyes._
 
-_A flash of lightning lights up the sky, casting long, scooter-like shadows across the apartment room through the window behind sleeping MC._
+_A flash of lightning briefly lights up the apartment room, exposing HADIDAH right next to MC sleeping body._
 
 # Scene 8
 
