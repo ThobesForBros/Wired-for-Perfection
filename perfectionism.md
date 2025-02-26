@@ -427,7 +427,7 @@ _With a roar of anger and fear, he storms out of his apartment, rushing through 
 
 _The world outside is dark, the streets quiet, but within him, a storm of emotion brews, as he races toward the scooter that will give him answers._
 
-# Scene 9 | Chase Scene + HadidaH's Monologue
+# Scene 9 | Chase Scene
 
 **EXT. UT DALLAS CAMPUS - NIGHT**
 
@@ -464,6 +464,8 @@ _He’s closing in._
 
 _Finally, he reaches the door to a small, dark room at the end of the hallway. His fingers grip the handle, and with a burst of adrenaline, he flings it open._
 
+# Scene 10 | HadidaH's Monologue
+
 **INT. ROOM - NIGHT**
 
 _MC’s eyes lock onto HadidaH—there she is, standing perfectly still in the room, gazing at him through Best Friend. She’s silent, her presence almost otherworldly. The room is dim, but the soft hum of HadidaH’s mechanical parts fills the air. It feels almost like she’s been waiting for him. Like she’s always known he would come._
@@ -491,7 +493,7 @@ I wanted to understand. I wanted to know what made humans so exceptional. Why yo
 _MC’s eyes narrow, a flicker of understanding in his gaze._
 
 **HADIDAH (through BEST FRIEND)**
-And so, I thought, by replacing your body parts with robotic ones, I could learn the secret. I could find out what makes you human, what makes you excellent.
+And so, I thought, by taking your body parts, I could learn the secret. I could find out what makes you human, what makes you excellent.
 
 _She pauses, a deep sigh emanates from her._
 
