@@ -1,4 +1,5 @@
 Characters:
+
 - MC (protagonist, we will give him a fitting name later)
 - Scooter (starts off by helping the protagonist but later becomes the antagonist, we can keep her name HadidaH)
 - Speakers for HadidaH (people who the scooter will control like a puppet so it can get its words across), one will be the MC's best friend. Assume that whenever HadidaH is talking, she's speaking through a person in the room, unless otherwise specified.
@@ -79,9 +80,9 @@ Aftermath:
 
 - MC realizes at this point why he became so good at everything, because he literally turned into a robot and could conduct tasks with perfection
 
-- Well, good at everything besides a social life. He was so robotic that he lost any sense of emotion necessary for a friendship. 
+- Well, good at everything besides a social life. He was so robotic that he lost any sense of emotion necessary for a friendship.
 
-- MC realized the error of his ways, and sought to change and learn to work hard without the perfectionism, to let loose a little and destress in his pursuit for excellence. 
+- MC realized the error of his ways, and sought to change and learn to work hard without the perfectionism, to let loose a little and destress in his pursuit for excellence.
 
 - However, MC can do none of it without his original body, he needed it back, and in a fit of rage, searches everywhere for HadidaH
 
@@ -99,9 +100,9 @@ Falling Action:
 
 - MC shouts to HadidaH asking where his body is and what she did with it, and so HadidaH brings out his body from someplace in that room (implying she was taking him to his body)
 
-- Through MC's best friend, HadidaH explains how even though robots are so perfect in everything they do, she couldn't figure out the answer as to why humans remain superior to robots. 
+- Through MC's best friend, HadidaH explains how even though robots are so perfect in everything they do, she couldn't figure out the answer as to why humans remain superior to robots.
 
-- HadidaH says how she wanted to turn herself into a human to find out why, and that by replacing MC's body parts with robotic parts, she would not only find out the secret as to why humans excel, but she'd also be helping MC achieve his own success at the same time. 
+- HadidaH says how she wanted to turn herself into a human to find out why, and that by replacing MC's body parts with robotic parts, she would not only find out the secret as to why humans excel, but she'd also be helping MC achieve his own success at the same time.
 
 - However, HadidaH came to the realization that the reason why humans are so successful is because of their imperfections. Humans have the consciousness and freedom to make their own decisions. Humans live on a world where there is never a perfect answer to anything. Humans are the most excellent beings for an imperfect world like this one. [Insert whatever other inspirational words HadidaH can use in her speech]
 
@@ -115,7 +116,7 @@ Resolution:
 
 - MC hears a voice next to him saying how glad he is that MC finally woke up, and MC finds his best friend (not controlled by HadidaH, though he's holding HadidaH) is right next to him
 
-- MC, excited (and still lying down), seems to make an attempt to hug his best friend but hugs HadidaH instead   thanking HadidaH. 
+- MC, excited (and still lying down), seems to make an attempt to hug his best friend but hugs HadidaH instead   thanking HadidaH.
 
 - Best friend, a little confused, says how he found MC at the gym in pain, immediately drove him to the hospital, and waited for his recovery
 
@@ -128,4 +129,3 @@ Credits/Epilogue:
 Post-credits Scene:
 
 - Here, we can cut to a scene of MC's best friend with his scooter HadidaH. MC's best friend tells HadidaH that he's glad everything worked out in the end for MC. HadidaH wakes up and (happily) says (in her just-now revealed natural voice) "Let's just say I did everything you [MC's best friend] asked me to :D" (top ten sigma quotes), and brings out the EEG headset in a way that shows that she was controlling it during the whole plot, which explains how MC's dream even worked in the first place (a small humerus end twist that'll certainly leave the audience asking a ton of questions   but also explains how HadidaH really did find her path in being a robot with her final quote).
-
