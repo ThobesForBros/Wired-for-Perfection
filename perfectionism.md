@@ -121,12 +121,12 @@ But... what’s the cost?
 
 *A pause. Then, HadidaH leans in through his best friend, voice a whisper, a lullaby of temptation.*  
 
-**HADIDAH (through Saif)**  
+**HADIDAH**  
 Oh, don’t waste your concern on me. You’re about to be transformed beyond recognition. And me? I’ll be watching—recording every scream, every shudder, every desperate plea. For the data, of course.
 
 *Kamal looks down at his trembling hands. The words echo in his head—excellence. His lifelong pursuit. His biggest frustration. A chance to never feel weak again.*  
 
-**HADIDAH (through Saif)**  
+**HADIDAH**  
 Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from distraction. The best version of yourself. The excellence you always wanted.  
 
 *MC hesitates. His breath is shallow. The air feels too thick. Then... slowly, his lips part.*  
@@ -144,7 +144,7 @@ Sleep now. It will be easier when you wake... when everything is as it should be
 
 **FADE IN**  
 
-*MC slowly regains consciousness on the gym floor. His head is heavy, and his vision is blurry. The gym's sounds—weights clanking and faint chatter—fill the air. He blinks, trying to clear his vision.*  
+*MC slowly regains consciousness in a hospital bed. His head is heavy, and his vision is blurry.*  
 
 *He tries to sit up, but there's a slight disorientation. His legs, however... feel different. He slowly tests them—bends his knees. There’s no pain. No stiffness. He flexes them a few more times, more confidently now.*  
 
@@ -156,24 +156,15 @@ What happened...? HadidaH... where are you!?
 **MC (curious)**  
 What did that scooter do to me?  
 
-*After a moment of steadying himself, he walks to the leg press machine, the same one where his leg injury happened. He hesitates for a second, glancing around at the others in the gym. The place feels like it’s moving in slow motion. All his focus is on his legs now.*  
+*After a moment of steadying himself*  
 
 **MC (whispering to himself)**  
 My legs, they feel... stronger, it's like there was no pain to begin with.  
 
-*He sits on the machine and positions his feet. He adjusts the weight, setting it higher than before. A deep breath. He starts pressing. His legs push with no effort. No pain. No strain. He presses again, a bit faster this time, and then again. He feels a rush, something almost primal, but controlled.*  
-
-**MC (grinning, under his breath)**  
-This... this feels too easy.  
-
-*He continues pressing the weight, increasing his reps. His legs are working in a way he never thought possible, and yet, the movement is fluid. Each press feels effortless, like a machine. The tension in his body builds, but there’s no fatigue. His muscles don't burn. They’re not strained. His focus is intense, but there's a quiet exhilaration that builds.*  
-
-*He racks the weights and stands up, his heart racing—not from exertion, but from the pure adrenaline of strength he never thought he could have. He stares at his legs, as if they belong to someone else. He takes a few steps forward, testing them again, this time without the machine to hold him.*  
-
 **MC (grinning, to himself)**  
-My workouts, they're **perfect**!  
+My legs. They're **perfect**!  
 
-*He takes a deep breath and walks toward the exit, his footsteps confident. As he exits, the world outside seems to blur and fade into the background, his mind only focused on one thing—perfection.*
+*He takes a deep breath and walks toward the exit of the hospital, his footsteps confident. As he exits, the world outside seems to blur and fade into the background, his mind only focused on one thing—perfection.*
 
 **FADE TO BLACK**  
 
@@ -194,10 +185,10 @@ Hey there. What can I get you today?
 *MC stares at the menu for a moment, but the words feel distant. He barely registers them, his mind still fixated on the grade.*  
 
 **MC (distantly)**  
-Black coffee.  
+A large pistacho frappe.  
 
 **WAITER**  
-Got it. One black coffee.  
+Got it. One large pistacho frappe.  
 
 *The waiter nods and turns to leave, but MC’s gaze follows him, a flicker of frustration crossing his face as he mutters to himself.*  
 
@@ -234,15 +225,8 @@ That sounds... exactly like what I need.
 **MC (with a smile)**  
 I’m ready. Do it.  
 
-*HADIDAH’s voice is softer now, almost coaxing.*  
-
-**HADIDAH (through WAITER)**  
-I don’t want to hurt you like I did last time. That wasn’t necessary. This time, I promise you’ll feel nothing at all.  
-
-*MC nods in eager agreement, his eyes burning with a desire for change.*  
-
 **MC (nodding)**  
-I don’t care. Just make me better. Make me smarter.  
+I don’t care about the cost. Just make me better. Make me smarter.  
 
 *The waiter’s hand reaches toward MC’s face, but it’s not a comforting touch. It’s an eerie, calculated motion, like the hand of something inhuman.*  
 
@@ -253,6 +237,12 @@ Rest now. Tomorrow, you’ll be sharper. You’ll be the best version of yoursel
 
 **MC (grinning, to himself)**  
 This is exactly what I needed.  
+
+**Waiter** (confused but doesn't push)
+Um sir, here's your large pistacho frappe?
+
+**MC**
+Thank you. (to himself), I'm finally going to me *perfect*!
 
 # SCENE 6: Perfection Montage
 
