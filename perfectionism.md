@@ -20,7 +20,7 @@ I got a 90.
 **Saif (excited)**  
 DUDE! THAT'S AMAZING!  
 
-**MC**  
+**Kamal**  
 No, it's not. I should have got a perfect score.  
 
 **Saif**  
@@ -104,7 +104,7 @@ You... what?
 **HADIDAH**  
 I can make you perfect. But at a **cost**.
 
-**HADIDAH (soft, almost soothing, through Saif)**  
+**HADIDAH (soft, almost soothing)**  
 Imagine, No more pain. No more exhaustion. No more failure.  
 
 *MC’s heartbeat pounds in his ears. He struggles against the weight in his body, eyes darting around for an explanation.*
@@ -116,7 +116,7 @@ I am HadidaH. And I can help you become something greater.
 
 *MC breathes heavily, mind spinning. His best friend’s eyes don’t blink. They don’t shift. They only stare. The scooter’s glow pulses steadily, like it’s watching him.*  
 
-**MC (shaky)**  
+**Kamal (shaky)**  
 But... what’s the cost?  
 
 *A pause. Then, HadidaH leans in through his best friend, voice a whisper, a lullaby of temptation.*  
