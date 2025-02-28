@@ -1,5 +1,5 @@
 # SCENE 1 | Exam
-
+ERROR
 *In the opening scene, we see a montage of MC's hard work—studying countless hours, rewriting notes, solving problems late into the night. His eyes are tired, but he refuses to stop.*  
 
 *CUT TO: INT. COLLEGE CLASSROOM - DAY*  
@@ -7,9 +7,9 @@
 *MC sits at his desk, tapping his pencil anxiously as the professor hands back graded exams. His BEST FRIEND, sitting next to him, grabs his paper first.*  
 
 **BEST FRIEND**  
-Bro! I got a 70! Man I thought I bombed that exam! (he says excitedly)  
+Bro! I got a 70! Man, I thought I bombed that exam! (he says excitedly)  
 
-*MC receives his test and stares at the score: 90. His grip tightens slightly on the paper.*  
+*MC receives his test and stares at the score of 90. His grip tightens slightly on the paper.*  
 
 **BEST FRIEND**  
 (worryingly) What's wrong, Habibi? What did you get?  
@@ -39,7 +39,7 @@ It should have been **perfect**...
 
 **FADE IN:**  
 *A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air.*  
-*MC (early 20s, lean, determined) is mid-rep on the leg press machine, his face contorted with exertion. Sweat beads on his forehead, muscles strained. His BEST FRIEND and another FRIEND linger nearby, chatting casually.*  
+*MC (early 20s, lean, determined) is mid-rep on the squat, his face contorted with exertion. Sweat beads on his forehead, muscles strained. His BEST FRIEND and another FRIEND linger nearby, chatting casually.*  
 
 **BEST FRIEND**  
 Dude, you’ve been at this for hours. Take a break.  
@@ -55,7 +55,7 @@ Just one more set.
 *BEST FRIEND and FRIEND exchange a glance. They know this routine. They’ve seen it before.*  
 
 **BEST FRIEND**  
-Look, man, we get it. You want to be the best. But killing yourself over numbers—whether it’s grades or weights—isn’t gonna make you excellent.  
+Look, man, we get it. You want to be the best. But killing yourself over numbers—grades or weights—doesn’t make you excellent.  ERROR
 
 *MC’s jaw tightens. He doesn’t respond. Instead, he racks the weights, panting. His legs shake as he stands. A moment of dizziness—*  
 
@@ -84,14 +84,14 @@ I've been working so hard... and for what!?
 *He clenches his fists, wincing at the pain that flares up in his body, but he ignores it. His hands dig into the cold floor as he tries to push himself up, his legs unresponsive. The frustration boils over, and he grits his teeth.*  
 
 **MC (furiously)**  
-Every day... hours and hours of sweat, of pain, of failure... and now, this?
+Every day... hours and hours of sweat, pain, failure... and now, this?
 
-*His eyes catch sight of his legs, a reminder of the setback he's facing. His knee is injured, and the recovery feels endless. He attempts to crawl, dragging his injured leg behind him, but the movement is slow, painful. His breathing becomes more erratic as the weight of his frustration crushes him.*  
+*His eyes catch sight of his legs, a reminder of the setback he's facing. His knee is injured, and the recovery feels endless. He attempts to crawl, dragging his injured leg behind him, but the movement is slow and painful. His breathing becomes more erratic as the weight of his frustration crushes him.*  
 
 **MC (weakly, to no one in particular)**  
 Months of progress... gone. I’m stuck.  
 
-*He manages to crawl a little further, but his body is drained. His chest heaves with each breath, the air too thick to take in. He stops, unable to continue. For a moment, the room is silent, save for the sound of his ragged breathing.*  
+*He crawls a little further, but his body is drained. His chest heaves with each breath, the air too thick to breathe. He stops, unable to continue. For a moment, the room is silent, except for his ragged breathing.*  
 
 *A VOICE—soft, familiar, yet... wrong.*  
 
@@ -103,7 +103,7 @@ I can fix you.
 **MC (weakly)**  
 You... What are you saying?  
 
-*His best friend’s head tilts—not quite right, like a puppet with invisible strings. His lips move, but the voice that emerges is layered, distorted—familiar yet artificial.*  
+*His best friend’s head tilts—not quite right, like a puppet with invisible strings. His lips move, but the emerging voice is layered, distorted—familiar yet artificial.*  
 
 **HADIDAH (through BEST FRIEND)**  
 I can make you excellent.  
@@ -115,7 +115,7 @@ No more pain. No more exhaustion. No more failure.
 
 *MC’s heartbeat pounds in his ears. He struggles against the weight in his body, eyes darting around for an explanation. Then, behind his best friend, he sees it—a SCOOTER parked in the shadows. Its interface flickers faintly, pulsing like a heartbeat.*  
 
-**MC (hoarse, barely a whisper)**  
+**MC (hoarse, barely a whisper)**  ERROR
 The... scooter? Who... are you?  
 
 *His best friend kneels beside him, but the hand on his shoulder is too precise, too steady. Not human. His voice is soft, persuasive, but the words feel rehearsed, calculated.*  
@@ -130,12 +130,11 @@ But... what’s the cost?
 
 *A pause. Then, HadidaH leans in through his best friend, voice a whisper, a lullaby of temptation.*  
 
-**HADIDAH (through BEST FRIEND)**  
-Oh, don’t worry about that. I’m getting exactly what I want out of this. And you... you’re getting everything you ever wanted.  
-
+**HADIDAH (through BEST FRIEND)**  ERROR
+"Oh, don’t worry about me. You’re getting the upgrade of a lifetime. And me? I’m just here for the... (deeply) data."
 *MC looks down at his trembling hands. The words echo in his head—excellence. His lifelong pursuit. His biggest frustration. A chance to never feel weak again.*  
 
-*His best friend—no, the puppet—tilts his head, waiting. His face is still, expectant.*  
+*His best friend—no, the puppet—tilts his head, waiting. His face is still expectant.*  
 
 **HADIDAH (through BEST FRIEND)**  
 Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from distraction. The best version of yourself. The excellence you always wanted.  
@@ -143,7 +142,7 @@ Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from d
 *MC hesitates. His breath is shallow. The air feels too thick. Then... slowly, his lips part.*  
 
 **MC (whispers)**  
-...Yes...yes...  
+...yes  
 
 *A low hum fills the space. The scooter’s interface flickers brighter, pulsing in sync with his best friend’s vacant stare. Then—*  
 
@@ -181,7 +180,7 @@ _He sits on the machine and positions his feet. He adjusts the weight, setting i
 **MC (grinning, under his breath)**  
 This... this feels too easy.  
 
-_He continues pressing the weight, increasing his reps. His legs are working in a way he never thought possible, and yet, the movement is fluid. Each press feels effortless, like a machine. The tension in his body builds, but there’s no fatigue. His muscles don't burn. They’re not strained. His focus is intense, but there's a quiet exhilaration that builds._  
+_He continues pressing the weight, increasing his reps. His legs work in a way he never thought possible, yet the movement is fluid. Each press feels effortless, like a machine. The tension in his body builds, but there’s no fatigue. His muscles don't burn. They’re not strained. His focus is intense, but there's a quiet exhilaration that builds._  
 
 _He racks the weights and stands up, his heart racing—not from exertion, but from the pure adrenaline of strength he never thought he could have. He stares at his legs, as if they belong to someone else. He takes a few steps forward, testing them again, this time without the machine to hold him._  
 
@@ -498,10 +497,10 @@ And so, I thought, by taking your body parts, I could learn the secret. I could 
 _She pauses, a deep sigh emanates from her._
 
 **HADIDAH (through BEST FRIEND)**
-But I realized something. Something I didn’t expect. The reason humans excel... is because of your imperfections. Your mistakes, your unpredictability, your choices. Your ability to make decisions, to learn from failure, to feel. That’s what makes you better than me. You’re not bound by perfection. You live in a world where there is no perfect answer.
+But I realized something. Something I didn’t expect. The reason humans excel... is because of their imperfections. Your mistakes, your unpredictability, your choices. Your ability to make decisions, to learn from failure, to feel. That’s what makes you better than me. You’re not bound by perfection. You live in a world where there is no perfect answer.
 
 **HADIDAH (through BEST FRIEND)**
-You are the most excellent beings for an imperfect world like this one.
+You are the most excellent beings in an imperfect world like this one.
 
 _MC stares at her, his anger fading into confusion, then realization. He feels a sense of clarity, but his confusion remains._
 
