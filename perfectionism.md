@@ -1,30 +1,34 @@
 # SCENE 1 | Exam
-ERROR
+
 *In the opening scene, we see a montage of MC's hard work—studying countless hours, rewriting notes, solving problems late into the night. His eyes are tired, but he refuses to stop.*  
 
 *CUT TO: INT. COLLEGE CLASSROOM - DAY*  
 
 *MC sits at his desk, tapping his pencil anxiously as the professor hands back graded exams. His BEST FRIEND, sitting next to him, grabs his paper first.*  
 
-**BEST FRIEND**  
+**Kamal (MC)**  
 Bro! I got a 70! Man, I thought I bombed that exam! (he says excitedly)  
 
 *MC receives his test and stares at the score of 90. His grip tightens slightly on the paper.*  
 
-**BEST FRIEND**  
+**Saif**  
 (worryingly) What's wrong, Habibi? What did you get?  
 
-**MC (softly)**  
+**Kamal (softly)**  
 I got a 90.  
 
 **BEST FRIEND (excited)**  
 DUDE! THAT'S AMAZING!  
 
-**MC**  
+**Kamal**  
 No, it's not. I should have got a perfect score.  
 
-**BEST FRIEND**  
-Bro, what are you talking about? That test was really hard! You were excellent!  
+**Saif**  
+Bro, what are you talking about? That test was really hard! You were excellent! *points at another friend* Jazam, what did you get again? 
+
+**Jazam** 
+"I got a 55."
+
 
 **MC (mumbling, barely audible)**  
 It should have been **perfect**...  
