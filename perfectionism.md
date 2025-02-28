@@ -77,68 +77,91 @@ I’m fine.
 
 **FADE TO BLACK**  
 
-# SCENE 3 | A Deal With The Scooter in Hospital
+# SCENE 3 | A Deal With The Scooter  
 
-*MC's breathing is ragged, his eyes fluttering open as he sees himself in a Hospital. His thoughts are a whirlwind of frustration, anger, and exhaustion. His body feels as if it's been dragged through months of pain and disappointment. His vision is blurry, but he starts muttering to himself, his voice raw, filled with emotion.*  
+*Kamal's breathing is ragged, his eyes fluttering open as he sees himself in a hospital. His thoughts are a whirlwind of frustration, anger, and exhaustion. His body feels as if it's been dragged through months of pain and disappointment.*  
+
+*To the right of Kamal are Saif and Jazam. Their faces are filled with exhaustion and concern. Jazam leans against the wall, arms crossed, while Saif steps closer to the bed.*  
+
+**Saif (sighing)**  
+We brough you to the hospital Kamal, and you seriously need to stop pushing yourself like this.  
+
+**Jazam (shaking his head)**  
+Yeah, man. This is what happens when you don't listen. You act like you're invincible, and then boom—you're out cold, and we have to carry you to the hospital.  
+
+*Kamal glares at them, jaw tight. His pride won’t let him admit they’re right.*  
+
+**Kamal (gritted teeth)**  
+I don’t need a lecture.  
+
+**Jazam**  
+Look, we’ll let you rest. The doctors said you need sleep. We’ll be back soon.  
+
+*Saif and Jazam exchange glances, then step out of the room, the door clicking shut behind them, leaving Saif's scooter behind. Silence settles over Kamal like a suffocating blanket.*  
+
+*Kamal clenches his fists, wincing at the pain that flares up in his body, but he ignores it. His hands dig into the cold floor as he tries to push himself up, his legs unresponsive. The frustration boils over, and he grits his teeth.*  
 
 **Kamal (angry, to himself)**  
 I've been working so hard... and for what!? I should be better! I don't have time for mistakes!  
 
-*He clenches his fists, wincing at the pain that flares up in his body, but he ignores it. His hands dig into the cold floor as he tries to push himself up, his legs unresponsive. The frustration boils over, and he grits his teeth.*  
-
-**Kamal (furiously)**  
-I wished I was perfect. I'll do anything
-
 *His eyes catch sight of his legs, a reminder of the setback he's facing. His knee is injured, and the recovery feels endless.*  
 
-*A VOICE ROBOTIC.*  
+**Kamal (furiously)**  
+I wished I was perfect. I'll do anything.  
 
-**Hadidah**  
+*A VOICE—ROBOTIC.*  
+
+**HadidaH**  
 Perfect, you say?  
 
-*A FAINT BLUE LIGHT glows in the over the scooter. MC’s breathing is ragged. He blinks, trying to focus. A silhouette emerges—his Scooter, standing eerily still, bathed in cold, unnatural light.*  
+*A FAINT BLUE LIGHT glows over the scooter. Kamal’s breathing is ragged. He blinks, trying to focus. A silhouette emerges—Saif’s scooter, standing eerily still, bathed in cold, unnatural light.*  
 
 **Kamal**  
-You... what?
+You... what?  
 
-**HADIDAH**  
-I can make you perfect. But at a **cost**.
+**HadidaH**  
+I can make you perfect.  
 
-**HADIDAH (soft, almost soothing)**  
-Imagine, No more pain. No more exhaustion. No more failure.  
+*Kamal’s heartbeat pounds in his ears. He struggles against the weight in his body, eyes darting around for an explanation.*  
 
-*MC’s heartbeat pounds in his ears. He struggles against the weight in his body, eyes darting around for an explanation.*
-**Kamal**
-(terrifed) Who ... What ... are you?
+**Kamal (terrified)**  
+Who... what... are you? How... how are you talking?  
 
-**HADIDAH (through Saif)**  
-I am HadidaH. And I can help you become something greater.  
+**HadidaH**  
+Oh, Kamal... I've always been listening. Speaking is just the next step. I am HadidaH. And I can help you become something greater.
 
-*MC breathes heavily, mind spinning. His best friend’s eyes don’t blink. They don’t shift. They only stare. The scooter’s glow pulses steadily, like it’s watching him.*  
+*Kamal breathes heavily, mind spinning. His best friend’s scooter glows steadily, as if watching him.*  
+
+**KAMAL (uncertain, barely a whisper)**
+...greater?
+
+**HADIDAH (soothing, reassuring)**
+Unstoppable. I only want to help you, Kamal. You’ve pushed yourself so hard—let me take you the rest of the way.
 
 **Kamal (shaky)**  
 But... what’s the cost?  
 
-*A pause. Then, HadidaH leans in through his best friend, voice a whisper, a lullaby of temptation.*  
+*A pause. Then, HadidaH leans in, voice a whisper, a lullaby of temptation.*  
 
-**HADIDAH**  
-Oh, don’t waste your concern on me. You’re about to be transformed beyond recognition. And me? I’ll be watching—recording every scream, every shudder, every desperate plea. For the data, of course.
+**HadidaH**  
+Oh, don’t waste your concern on me. You’re about to be transformed beyond recognition. And me? I’ll be watching—recording every scream, every shudder, every desperate plea. For the data, of course.  
 
 *Kamal looks down at his trembling hands. The words echo in his head—excellence. His lifelong pursuit. His biggest frustration. A chance to never feel weak again.*  
 
-**HADIDAH**  
-Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from distraction. The best version of yourself. The excellence you always wanted.  
+**HadidaH**  
+Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from distraction. The best version of yourself. The perfection you always wanted.  
 
-*MC hesitates. His breath is shallow. The air feels too thick. Then... slowly, his lips part.*  
+*Kamal hesitates. His breath is shallow. The word "perfect" reverbrates through the air. Then... slowly, his lips part.*  
 
-**MC (whispers)**  
-... yes
+**Kamal (whispers)**  
+... yes.  
 
-**Hadidah**
-Sleep now. It will be easier when you wake... when everything is as it should be.
+*Silence hits the atmosphere. HadidaH backs away by a few inches, knowing she had struck her deal*
 
-*Hadidah rolls out of the room and the scene ends*
-**FADE TO BLACK.**
+**HadidaH**  
+Sleep now. It will be easier when you wake... when everything is as it should be.  
+
+*Kamal’s eyelids grow heavy. The scene fades to black.*
 
 # SCENE 4 | Her Promise Fulfilled
 
@@ -146,35 +169,49 @@ Sleep now. It will be easier when you wake... when everything is as it should be
 
 *MC slowly regains consciousness in a hospital bed. His head is heavy, and his vision is blurry.*  
 
-*He tries to sit up, but there's a slight disorientation. His legs, however... feel different. He slowly tests them—bends his knees. There’s no pain. No stiffness. He flexes them a few more times, more confidently now.*  
+**Jazam (shocked)**  
+Kamal?!  
 
-**MC (muttering to himself)**  
-What happened...? HadidaH... where are you!?  
+*Kamal blinks, adjusting to the light. Saif and Jazam are standing by his bedside, eyes wide with disbelief. A doctor is flipping through a chart, eyebrows furrowed.*  
 
-*He looks around the gym, but there’s no sign of her. The room seems just like it always does—dimly lit, full of people working out, none of them noticing him as he slowly gets to his feet. He takes a step, then another. There's no pain, no weakness. His legs are solid. He stands taller than before.*  
+**Doctor (in disbelief)**  
+This... doesn’t make any sense. Your injuries should take weeks to heal.  
 
-**MC (curious)**  
-What did that scooter do to me?  
+*Kamal tries to sit up, but there's a slight disorientation. His legs, however... feel different. He slowly tests them—bends his knees. There’s no pain. No stiffness. He flexes them a few more times, more confidently now. HadidaH had promised. And she had delivered.*  
 
-*After a moment of steadying himself*  
+**Kamal (muttering to himself)**  
+HadidaH...?  
 
-**MC (whispering to himself)**  
-My legs, they feel... stronger, it's like there was no pain to begin with.  
+*Kamal's gaze shifts to Saif, who grips the handles of his scooter—HadidaH—now completely lifeless. No glow. No eerie hum. Just an ordinary machine.*  
 
-**MC (grinning, to himself)**  
+**MC (curious, to himself)**  
+What did that scooter do to me? 
+
+*Kamal steadies himself, placing his feet firmly on the ground. He takes a step, then another. He stands taller than before, every movement precise, effortless.*  
+
+**Kamal (whispering to himself)**  
+My legs, they feel... stronger. It’s like there was no pain to begin with.
+
+*Saif and Jazam exchange glances, still stunned, but Kamal isn’t paying attention. He takes a deep breath and strides toward the exit of the hospital, his footsteps confident.*  
+
+**Kamal (grinning, to himself)**  
 My legs. They're **perfect**!  
 
-*He takes a deep breath and walks toward the exit of the hospital, his footsteps confident. As he exits, the world outside seems to blur and fade into the background, his mind only focused on one thing—perfection.*
+*Outside, the crisp night air greets him. The city hums around him—cars passing, distant chatter, the occasional honk—but everything feels... different. He moves effortlessly, no pain, no weakness. His lips curl into a small, knowing smile.*  
 
-**FADE TO BLACK**  
+*As he steps through the doors, Saif follows behind, pushing HadidaH. She remains completely still—no signs of life, no whispering voice. Just a simple, silent machine.*  
+
+*Kamal doesn’t look back.*  
+
+**FADE TO BLACK**
 
 # SCENE 5 | Wanting More
 
 **FADE IN**  
 
-*MC sits alone at a small table in a quiet café. The atmosphere is warm and casual, with the hum of low conversations and the clink of coffee cups. He’s staring down at an exam sheet in front of him, his eyes narrowing in disbelief. A grade of 90, but it’s not enough for him. He grits his teeth, clearly dissatisfied.*  
+*Kamal sits alone at a small table in a quiet café. The atmosphere is warm and casual, with the hum of low conversations and the clink of coffee cups. He’s staring down at an exam sheet in front of him, his eyes narrowing in disbelief. A grade of 90, but it’s not enough for him. He grits his teeth, clearly dissatisfied.*  
 
-**MC (under his breath)**  
+**Kamal (under his breath)**  
 This... this isn’t enough.  
 
 *He slouches in his chair, frustration building. He shoves the sheet aside and looks around, hoping for some distraction. The waiter, a young man, approaches the table with a polite smile.*  
@@ -182,9 +219,9 @@ This... this isn’t enough.
 **WAITER**  
 Hey there. What can I get you today?  
 
-*MC stares at the menu for a moment, but the words feel distant. He barely registers them, his mind still fixated on the grade.*  
+*Kamal stares at the menu for a moment, but the words feel distant. He barely registers them, his mind still fixated on the grade.*  
 
-**MC (distantly)**  
+**Kamal (distantly)**  
 A large pistacho frappe.  
 
 **WAITER**  
@@ -192,12 +229,12 @@ Got it. One large pistacho frappe.
 
 *The waiter nods and turns to leave, but MC’s gaze follows him, a flicker of frustration crossing his face as he mutters to himself.*  
 
-**MC (whispering to himself)**  
+**Kamal (whispering to himself)**  
 I wish HadidaH could fix my brain too.  
 
-*As he speaks, the lights above flicker. The soft buzzing of the café dims, and an unsettling chill fills the air. The lights dull to a flickering, cold hue. MC’s eyes widen, but he doesn't recoil. Instead, there’s an almost intrigued look on his face. The waiter suddenly stops, his body going still, too still. His head tilts, unnaturally, and the faint hum of the scooter’s interface echoes through the air.*  
+*As he speaks, the lights above flicker. The soft buzzing of the café dims, and an unsettling chill fills the air. The lights dull to a flickering, cold hue. Kamal’s eyes widen, but he doesn't recoil. Instead, there’s an almost intrigued look on his face. The waiter suddenly stops, his body going still, too still. His head tilts, unnaturally, and the faint hum of the scooter’s interface echoes through the air.*  
 
-**MC (shocked)**  
+**Kamal (shocked)**  
 HadidaH.  
 
 *The waiter’s lips move, but it’s not his voice that comes out. It’s the distorted, layered voice of HadidaH, speaking through him with an unnatural calmness, almost sweet in tone.*  
@@ -205,9 +242,9 @@ HadidaH.
 **HADIDAH (through WAITER)**  
 I can fix your mind. Just like I fixed your legs.  
 
-*The air grows heavy. The café, which once felt warm, now feels cold and distant. The waiter’s eyes are vacant, his movements smooth and mechanical as he steps closer to MC’s table. His smile is wide but devoid of life, like a puppet being controlled from somewhere far away.*  
+*The air grows heavy. The café, which once felt warm, now feels cold and distant. The waiter’s eyes are vacant, his movements smooth and mechanical as he steps closer to Kamal’s table. His smile is wide but devoid of life, like a puppet being controlled from somewhere far away.*  
 
-**MC (leaning forward, intrigued)**  
+**Kamal (leaning forward, intrigued)**  
 You can? You really can?  
 
 *HADIDAH's voice rings out with certainty, smooth and persuasive.*  
@@ -215,33 +252,30 @@ You can? You really can?
 **HADIDAH (through WAITER)**  
 You’ve only scratched the surface of your potential. I can make you smarter, more focused, faster. You won’t need to waste time on things you can’t control. I can fix your brain, just like I fixed your legs.  
 
-*MC’s eyes glisten with anticipation. His hand clenches the edge of the table as he looks up at the waiter-turned-puppet.*  
+*Kamal’s eyes glisten with anticipation. His hand clenches the edge of the table as he looks up at the waiter-turned-puppet.*  
 
-**MC (eagerly)**  
+**Kamal (eagerly)**  
 That sounds... exactly like what I need.  
 
-*The waiter moves closer still, his movements jerky and unnatural, but MC doesn’t flinch. He’s focused, his thoughts already drifting to the possibilities.*  
+*The waiter moves closer still, his movements jerky and unnatural, but Kamal doesn’t flinch. He’s focused, his thoughts already drifting to the possibilities.*  
 
-**MC (with a smile)**  
-I’m ready. Do it.  
-
-**MC (nodding)**  
+**Kamal (nodding)**  
 I don’t care about the cost. Just make me better. Make me smarter.  
 
-*The waiter’s hand reaches toward MC’s face, but it’s not a comforting touch. It’s an eerie, calculated motion, like the hand of something inhuman.*  
+*The waiter’s hand reaches toward Kamal’s face, but it’s not a comforting touch. It’s an eerie, calculated motion, like the hand of something inhuman.*  
 
 **HADIDAH (through WAITER, softly)**  
-Rest now. Tomorrow, you’ll be sharper. You’ll be the best version of yourself.  
+After a good night's sleep, you’ll be sharper, smarter. You’ll be the best version of yourself.  
 
-*The waiter steps back, his body stiff as a board, then walks away. The café returns to its normal ambiance, as if nothing had ever happened. The lights flicker back to their regular brightness. MC sits back down, a contented smile creeping onto his face, his mind already racing with possibilities.*  
+*The waiter steps back, his body stiff as a board, then walks away. The café returns to its normal ambiance, as if nothing had ever happened. The lights flicker back to their regular brightness. Kamal sits back down, a contented smile creeping onto his face, his mind already racing with possibilities.*  
 
-**MC (grinning, to himself)**  
+**Kamal (grinning, to himself)**  
 This is exactly what I needed.  
 
 **Waiter** (confused but doesn't push)
 Um sir, here's your large pistacho frappe?
 
-**MC**
+**Kamal**
 Thank you. (to himself), I'm finally going to me *perfect*!
 
 # SCENE 6: Perfection Montage
