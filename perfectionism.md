@@ -73,7 +73,7 @@ I’m fine.
 **KAMAL (groaning)**  
 (in-pain and denial) OW... No, no, no—  
 
-*The room spins. SAIF and Jaza, rush to him, their voices muffled, distant. His vision tunnels.*  
+*The room spins. SAIF and JAZAM, rush to him, their voices muffled, distant. His vision tunnels.*  
 
 **FADE TO BLACK**  
 
