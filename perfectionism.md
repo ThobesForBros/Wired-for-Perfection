@@ -26,7 +26,7 @@ No, it's not. I should have got a perfect score.
 **SAIF**  
 Bro, what are you talking about? That test was really hard! Look let me prove it. *points at JAZAM* What did you get again, habibi?
 
-**JAZAM (smiling)**
+**JAZAM (smiling)**  
 I got a 55 lol 
 
 **KAMAL (mumbling, barely audible)**  
