@@ -4,7 +4,7 @@
 
 *CUT TO: INT. COLLEGE CLASSROOM - DAY*  
 
-*KAMAL sits at his desk, tapping his pencil anxiously as the professor hands back graded exams. His SAIF, sitting next to him, grabs his paper first.*  
+*KAMAL sits at his desk, tapping his pencil anxiously as the professor hands back graded exams. His best friend, SAIF, sitting next to him, grabs his paper first.*  
 
 **SAIF (excitedly)**  
 Bro! I got a 70! Man I thought I bombed that exam!
@@ -42,7 +42,7 @@ It should have been **perfect**...
 
 **FADE IN:**  
 
-*A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air. KAMAL is mid-rep on the leg press machine, his face contorted with exertion. Sweat beads on his forehead, muscles strained. His best friend, SAIF, and another friend, JAZAM, linger nearby.*  
+*A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air. KAMAL is mid-rep on the leg press machine, his face contorted with exertion. Sweat beads on his forehead, muscles strained. SAIF, and another friend, JAZAM, linger nearby.*  
 
 **SAIF**  
 Dude, you’ve been at this for hours. Take a break.  
