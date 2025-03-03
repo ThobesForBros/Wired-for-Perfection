@@ -6,13 +6,13 @@
 
 *KAMAL sits at his desk, tapping his pencil anxiously as the professor hands back graded exams. His SAIF, sitting next to him, grabs his paper first.*  
 
-**SAIF**  
-Bro! I got a 70! Man I thought I bombed that exam! (he says excitedly)  
+**SAIF (excitedly)**  
+Bro! I got a 70! Man I thought I bombed that exam!
 
 *KAMAL receives his test and stares at the score: 90. His grip tightens slightly on the paper.*  
 
-**SAIF**  
-(worryingly) What's wrong, Habibi? What did you get?  
+**SAIF (worryingly)**  
+What's wrong, Kamal? What did you get?  
 
 **KAMAL (softly)**  
 I got a 90.  
@@ -26,8 +26,8 @@ No, it's not. I should have got a perfect score.
 **SAIF**  
 Bro, what are you talking about? That test was really hard! Look let me prove it. *points at JAZAM* What did you get again, habibi?
 
-**JAZAM**
-I got a 55 lol (smiling)
+**JAZAM (smiling)**
+I got a 55 lol 
 
 **KAMAL (mumbling, barely audible)**  
 It should have been **perfect**...  
@@ -36,13 +36,13 @@ It should have been **perfect**...
 
 *His breathing steadies. Determination flickers in his eyes. He closes his notebook and stands up.*  
 
-**CUT TO: INT. COLLEGE GYM - NIGHT**
-
 # SCENE 2 | Gym
 
+**CUT TO: INT. COLLEGE GYM - NIGHT**
+
 **FADE IN:**  
-*A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air.*  
-*KAMAL (early 20s, lean, determined) is mid-rep on the leg press machine, his face contorted with exertion. Sweat beads on his forehead, muscles strained. His SAIF and another JAZAM linger nearby, chatting casually.*  
+
+*A dimly lit gym, illuminated by the glow of overhead fluorescents. The rhythmic CLANK of weights and hushed chatter fill the air. KAMAL is mid-rep on the leg press machine, his face contorted with exertion. Sweat beads on his forehead, muscles strained. His best friend, SAIF, and another friend, JAZAM, linger nearby.*  
 
 **SAIF**  
 Dude, you’ve been at this for hours. Take a break.  
@@ -57,21 +57,21 @@ Just one more set.
 
 *SAIF and JAZAM exchange a glance. They know this routine. They’ve seen it before.*  
 
-**SAIF**  
-(frustrated) Look, man, we get it! You want to be the best—fine. But beating yourself into the ground over numbers? Whether it’s grades or weights, it’s not making you excellent—it’s tearing you apart!  
+**SAIF (frustrated)**  
+Look, man, we get it! You want to be the best—fine. But beating yourself into the ground over numbers? Whether it’s grades or weights, it’s not making you excellent—it’s tearing you apart!
 
 *KAMAL’s jaw tightens. He doesn’t respond. Instead, he racks the weights, panting. His legs shake as he stands. A moment of dizziness—*  
 
 **JAZAM**  
-Want some water Mr. Perfect?  
+Want some water, Mr. Perfect?  
 
-**KAMAL**  
-I’m fine.  
+**KAMAL**
+I’m fine.
 
-*He takes a step forward—his knee BUCKLES—sickening POP echoes. KAMAL gasps, collapsing onto the rubber floor.*  
+*He takes a step forward—his knees let out sickening POP echoes. KAMAL gasps, collapsing onto the rubber floor.*  
 
-**KAMAL (groaning)**  
-(in-pain and denial) OW... No, no, no—  
+**KAMAL (groaning in-pain)**  
+Ouch... No, no, no—
 
 *The room spins. SAIF and JAZAM, rush to him, their voices muffled, distant. His vision tunnels.*  
 
