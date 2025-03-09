@@ -24,7 +24,7 @@ DUDE! THAT'S AMAZING!
 No, it's not. I should have got a perfect score.  
 
 **SAIF**  
-Bro, what are you talking about? That test was really hard! Look let me prove it. *points at JAZAM* What did you get again, habibi?
+Bro, what are you talking about? That test was really hard! Look, let me prove it. *points at JAZAM* What did you get again, Habibi?
 
 **JAZAM (smiling)**  
 I got a 55 lol 
@@ -47,7 +47,7 @@ It should have been **perfect**...
 **SAIF**  
 Dude, you’ve been at this for hours. Take a break.  
 
-**JAZAM**  
+**Friend**  
 Seriously, man. What are you even trying to prove?  
 
 *KAMAL exhales sharply, pushing out another rep. His eyes are locked forward—determined, distant.*  
@@ -55,14 +55,14 @@ Seriously, man. What are you even trying to prove?
 **KAMAL**  
 Just one more set.  
 
-*SAIF and JAZAM exchange a glance. They know this routine. They’ve seen it before.*  
+*SAIF and Friend exchange a glance. They know this routine. They’ve seen it before.*  
 
 **SAIF (frustrated)**  
 Look, man, we get it! You want to be the best—fine. But beating yourself into the ground over numbers? Whether it’s grades or weights, it’s not making you excellent—it’s tearing you apart!
 
 *KAMAL’s jaw tightens. He doesn’t respond. Instead, he racks the weights, panting. His legs shake as he stands. A moment of dizziness—*  
 
-**JAZAM**  
+**Friend**  
 Want some water, Mr. Perfect?  
 
 **KAMAL**  
@@ -70,16 +70,16 @@ I’m fine.
 
 *He takes a step forward—his knees let out sickening POP echoes. KAMAL gasps, collapsing onto the rubber floor.*  
 
-**KAMAL (groaning in-pain)**  
+**KAMAL (groaning in pain)**  
 Ouch... No, no, no—  
 
-*The room spins. SAIF and JAZAM, rush to him, their voices muffled, distant. His vision tunnels.*  
+*The room spins. SAIF and friend rushes to him, their voices muffled, distant. His vision tunnels.*  
 
 **FADE TO BLACK**  
 
 # SCENE 3 | A Deal With The Scooter  
 
-*KAMAL's breathing is ragged, his eyes fluttering open as he sees himself in a hospital. His thoughts are a whirlwind of frustration, anger, and exhaustion. His body feels as if it's been dragged through months of pain and disappointment.*  
+*KAMAL's breathing is ragged, his eyes fluttering open as he sees himself in an apartment. His thoughts are a whirlwind of frustration, anger, and exhaustion. His body feels as if it's been dragged through months of pain and disappointment.*  
 
 *To the right of KAMAL are SAIF and JAZAM. Their faces are filled with exhaustion and concern. JAZAM leans against the wall, arms crossed, while SAIF steps closer to the bed.*  
 
@@ -151,7 +151,7 @@ Oh, don’t waste your concern on me. You’re about to be transformed beyond re
 **HADIDAH**  
 Just a small enhancement. Stronger muscles, sharper reflexes, a mind free from distraction. The best version of yourself. The perfection you always wanted.  
 
-*KAMAL hesitates. His breath is shallow. The word "perfect" reverbrates through the air. Then... slowly, his lips part.*  
+*KAMAL hesitates. His breath is shallow. The word "perfect" reverberates through the air. Then... slowly, his lips part.*  
 
 **KAMAL (whispers)**  
 ... yes.  
@@ -167,15 +167,12 @@ Sleep now. It will be easier when you wake... when everything is as it should be
 
 **FADE IN**  
 
-*KAMAL slowly regains consciousness in a hospital bed. His head is heavy, and his vision is blurry.*  
+*KAMAL slowly regains consciousness in a apartment bed. His head is heavy, and his vision is blurry.*  
 
-**JAZAM (shocked)**  
+**Saif (shocked)**  
 KAMAL?!  
 
 *KAMAL blinks, adjusting to the light. SAIF and JAZAM are standing by his bedside, eyes wide with disbelief. A DOCTOR is flipping through a chart, eyebrows furrowed.*  
-
-**DOCTOR (in disbelief)**  
-This... doesn’t make any sense. Your injuries should've taken weeks to heal.  
 
 *KAMAL tries to sit up, but there's a slight disorientation. His legs, however... feel different. He slowly tests them—bends his knees. There’s no pain. No stiffness. He flexes them a few more times, more confidently now. HADIDAH had promised. And she had delivered.*  
 
@@ -192,7 +189,7 @@ What did that scooter do to me?
 **KAMAL (whispering to himself)**  
 My legs, they feel... stronger. It’s like there was no pain to begin with.  
 
-*SAIF and JAZAM exchange glances, still stunned, but KAMAL isn’t paying attention. He takes a deep breath and strides toward the exit of the hospital, his footsteps confident.*  
+*SAIF exchanges glances, still stunned, but KAMAL isn’t paying attention. He takes a deep breath and strides toward the exit of the hospital, his footsteps confident.*  
 
 **KAMAL (grinning, to himself)**  
 My legs. They're... **perfect**!  
@@ -216,7 +213,7 @@ This... this isn’t enough.
 
 *He slouches in his chair, frustration building. He shoves the sheet aside and looks around, hoping for some distraction. The WAITER, a young man, approaches the table with a polite smile.*  
 
-**WAITER**  
+**Saif**  
 Hey there. What can I get you today?  
 
 *KAMAL stares at the menu for a moment, but the words feel distant. He barely registers them, his mind still fixated on the grade.*  
@@ -224,7 +221,7 @@ Hey there. What can I get you today?
 **KAMAL (distantly)**  
 A large pistacho frappe.  
 
-**WAITER**  
+**Saif**  
 Got it. One large pistacho frappe.  
 
 *The WAITER nods and turns to leave, but KAMAL’s gaze follows him, a flicker of frustration crossing his face as he mutters to himself.*  
