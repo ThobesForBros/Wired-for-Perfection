@@ -1,3 +1,8 @@
+Note: headlight only on when scooter is "alive."
+
+
+
+
 # SCENE 1 | Exam
 
 *In the opening scene, we see a montage of KAMAL's hard work—studying countless hours, rewriting notes, solving problems late into the night. His eyes are tired, but he refuses to stop.*  
@@ -167,29 +172,29 @@ Sleep now. It will be easier when you wake... when everything is as it should be
 
 **FADE IN**  
 
-*KAMAL slowly regains consciousness in a apartment bed. His head is heavy, and his vision is blurry.*  
+*KAMAL slowly regains consciousness in an apartment bed. His head is heavy, and his vision is blurry.*  
 
 **Saif (shocked)**  
 KAMAL?!  
 
 *KAMAL blinks, adjusting to the light. SAIF and JAZAM are standing by his bedside, eyes wide with disbelief. A DOCTOR is flipping through a chart, eyebrows furrowed.*  
 
-*KAMAL tries to sit up, but there's a slight disorientation. His legs, however... feel different. He slowly tests them—bends his knees. There’s no pain. No stiffness. He flexes them a few more times, more confidently now. HADIDAH had promised. And she had delivered.*  
+*KAMAL tries to sit up, but there's a slight disorientation. His legs, however... feel different. He slowly tests them—and bends his knees. There’s no pain. No stiffness. He flexes them a few more times, more confidently now. HADIDAH had promised. And she had delivered.*  
 
 **KAMAL (muttering to himself)**  
 HADIDAH...?  
 
-*KAMAL's gaze shifts to SAIF, who grips the handles of his scooter—HADIDAH—now completely lifeless. No glow. No eerie hum. Just an ordinary machine.*  
+*KAMAL's gaze shifts to SAIF, who grips the handles of his scooter—HADIDAH—now completely lifeless. No glow. No eerie hum. It's just an ordinary machine.*  
 
 **KAMAL (curious, to himself)**  
 What did that scooter do to me?  
 
-*KAMAL steadies himself, placing his feet firmly on the ground. He takes a step, then another. He stands taller than before, every movement precise, effortless.*  
+*KAMAL steadies himself, placing his feet firmly on the ground. He takes a step, then another. He stands taller than before, every movement precise and effortless.*  
 
 **KAMAL (whispering to himself)**  
 My legs, they feel... stronger. It’s like there was no pain to begin with.  
 
-*SAIF exchanges glances, still stunned, but KAMAL isn’t paying attention. He takes a deep breath and strides toward the exit of the hospital, his footsteps confident.*  
+*SAIF exchanges glances, still stunned, but KAMAL isn’t paying attention. He takes a deep breath and strides toward the apartment exit, his footsteps confident.*  
 
 **KAMAL (grinning, to himself)**  
 My legs. They're... **perfect**!  
@@ -206,7 +211,7 @@ My legs. They're... **perfect**!
 
 **FADE IN**  
 
-*KAMAL sits alone at a small table in a quiet café. The atmosphere is warm and casual, with the hum of low conversations and the clink of coffee cups. He’s staring down at an exam sheet in front of him, his eyes narrowing in disbelief. A grade of 90, but it’s not enough for him. He grits his teeth, clearly dissatisfied.*  
+*KAMAL sits alone at a small table in a quiet café. The atmosphere is warm and casual, with the hum of low conversations and the clink of coffee cups. He’s staring down at an exam sheet in front of him, his eyes narrowing in disbelief. He has a grade of 90, but it’s not enough for him. He grits his teeth, clearly dissatisfied.*  
 
 **KAMAL (under his breath)**  
 This... this isn’t enough.  
@@ -270,7 +275,7 @@ After a good night's sleep, you’ll be sharper, smarter. You’ll be the best v
 This is exactly what I needed.  
 
 **WAITER (confused but doesn't push)**  
-Uhm, sir? Here's your large pistacho frappe...  
+Uhm, sir? Here's your large pistachio frappe...  
 
 **KAMAL**  
 Thank you. (to himself), I'm finally going to me *perfect*!  
@@ -318,7 +323,7 @@ Thank you. (to himself), I'm finally going to me *perfect*!
 
 *Suddenly, a familiar voice calls out, interrupting the silence.*  
 
-**SAIF (O.S.)**  
+**Hadidah (O.S.)**  
 Hey, how’s everything going?  
 
 *KAMAL freezes for a moment, recognizing the voice but surprised to hear it in this context. He turns and sees SAIF standing a few feet away.*  
@@ -331,7 +336,7 @@ _SAIF stands in front of him, a forced smile plastered on his face, but his post
 **KAMAL (almost to himself, resigned)**  
 You’ve been at this for a while, haven’t you?  
 
-**HADIDAH (in an overly cheerful tone, through SAIF)**  
+**HADIDAH (in an overly cheerful tone)**  
 I’m here, of course! How are you doing?  
 
 *KAMAL sighs, running a hand through his hair as he takes a step forward, looking at SAIF with a mixture of recognition and frustration.*  
@@ -339,7 +344,7 @@ I’m here, of course! How are you doing?
 **KAMAL (softly, almost pleading)**  
 Everything’s perfect. I’ve got everything I wanted. But... I’ve lost everyone. I just want my friends back... can you help me?  
 
-*SAIF tilts his head slightly, the movement too weak. His eyes close, as if processing the request, before his lips curve into a smile that doesn’t quite reach his eyes.*  
+*Hadidah tilts his head slightly, the movement too weak. His eyes close, as if processing the request, before his lips curve into a smile that doesn’t quite reach his eyes.*  
 
 **HADIDAH (with forced enthusiasm, through SAIF)**  
 But you’re perfect now, right? You got everything you wanted-  
@@ -357,9 +362,9 @@ You’ll have everything you want by tomorrow. Just like before. Perfect.
 **KAMAL (hopeful)**  
 I knew I could count on you. Thank you!  
 
-*SAIF smiles, but it’s too bright, too happy. The moment drags longer than it should, the silence between them unnerving. Finally, SAIF turns to walk away, his movements unnatural as he is not in control.*  
+*Hadidah smiles, but it’s too bright, too happy. The moment drags longer than it should, the silence between them unnerving. Finally, SAIF turns to walk away, his movements unnatural as he is not in control.*  
 
-**SAIF (slightly slower than before, still too cheerful, through SAIF)**  
+**Hadidah (slightly slower than before, still too cheerful, through SAIF)**  
 Of course. Everything will be perfect tomorrow. You’ll have your friends back, just like before. I’ll see you then. Rest well.  
 
 *KAMAL watches them go, his gaze following the strange, jerky movements of SAIF. He doesn’t question it—he doesn’t need to. Deep down, he knows it’s HADIDAH, and he’s too focused on the promise of everything returning to normal to care about the unsettling nature of the situation.*  
@@ -367,6 +372,7 @@ Of course. Everything will be perfect tomorrow. You’ll have your friends back,
 *KAMAL enters his apartment and goes through the usual motions, changing into his sleepwear. He looks at his reflection in the bathroom mirror briefly, before turning away, almost too quickly. He walks to the bed and lays down, closing his eyes.*  
 
 *A flash of lightning briefly lights up the apartment room, exposing HADIDAH right next to KAMAL's sleeping body.*  
+*Scooter dips and Kamal walks home* 
 
 # Scene 8 | Wired for Perfection  
 
@@ -477,7 +483,7 @@ HADIDAH!! COME BACK HERE!! I NEED ANSWERS!!
 **KAMAL (shouting, enraged)**  
 Where’s my body?! What did you do with it?!!  
 
-*For a moment, HADIDAH doesn’t respond. She remains completely still. Suddenly, SAIF, still under HADIDAH's control, walks somewhere and and comes back with KAMAL’s body—his real human body. He stares at it in disbelief.*  
+*For a moment, HADIDAH doesn’t respond. She remains completely still. Suddenly, SAIF, still under HADIDAH's control, walks somewhere and comes back with KAMAL’s body—his real human body. He stares at it in disbelief.*  
 
 **KAMAL (whispering, horrified)**  
 That’s... that’s me...  
